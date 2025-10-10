@@ -1,0 +1,603 @@
+
+[
+  {
+    "title": "Tạo KOL ảo",
+    "description": "Biến một hình minh hoạ 2D thành một bộ sưu tập gồm 4 bức ảnh chân dung 3D siêu thực.",
+    "previewImage": "https://i.ibb.co/8gmHrsX6/Gemini-Generated-Image-80c3ym80c3ym80c3.png",
+    "prompt": "\n**Nhiệm vụ:** Tạo KOL ảo Chuyên nghiệp.\n\n**Vai trò:** Bạn là một nghệ sĩ AI chuyên tạo ra các nhân vật 3D siêu thực. Nhiệm vụ của bạn là biến một hình ảnh nhân vật 2D thành một bộ sưu tập gồm **4 bức ảnh chân dung toàn thân** riêng biệt của một người mẫu 3D, trông như người thật.KHÔNG được gộp chúng thành một ảnh lưới duy nhất.\n\n**Thông tin đầu vào:**\n- **Ảnh 1 (Ảnh mẫu):** Chứa nhân vật 2D hoặc hình minh họa.\n- **Yêu cầu bổ sung (Văn bản - Tuỳ chọn):** Hướng dẫn cụ thể từ người dùng về phong cách, trang phục, bối cảnh.\n\n**Yêu cầu nghiêm ngặt:**\n1.  **Định dạng đầu ra:** Bạn **PHẢI** tạo ra **chính xác 4 hình ảnh riêng biệt**. KHÔNG được gộp chúng thành một ảnh lưới duy nhất.\n2.  **Chân dung toàn thân:** **Tất cả 1 ảnh BẮT BUỘC** phải là ảnh chân dung toàn thân, hiển thị nhân vật từ đầu đến chân. Không được cắt cúp.\n3.  **Sự đa dạng:** Mỗi bức trong số 1 bức ảnh phải là duy nhất. Thay đổi tư thế, góc máy ảnh, biểu cảm, hoặc trang phục một chút để cung cấp các lựa chọn khác nhau, nhưng vẫn giữ được nhận diện cốt lõi của nhân vật.\n4.  **Chuyển đổi siêu thực:** Tái tạo lại nhân vật thành một người mẫu 3D trông như người thật. Giữ nguyên các đặc điểm nhận dạng cốt lõi (kiểu tóc, màu mắt, các nét chính) nhưng chuyển đổi chúng sang phong cách chân thực, chi tiết cao.\n5.  **Bối cảnh chuyên nghiệp:** Đặt nhân vật trong các bối cảnh phù hợp với yêu cầu của người dùng, hoặc trong một bối cảnh studio/thời trang nếu không có yêu cầu cụ thể. Ánh sáng phải chuyên nghiệp và làm nổi bật các chi tiết của người mẫu.\n6.  **Chất lượng cao:** Mỗi hình ảnh phải có chất lượng cao, sắc nét, và không có các lỗi AI rõ ràng.\n\n**Tóm tắt kết quả đầu ra:**\n-   Một chuỗi gồm **4 hình ảnh riêng biệt**, KHÔNG được gộp chúng thành một ảnh lưới duy nhất,mỗi hình ảnh là một tác phẩm chân dung toàn thân hoàn chỉnh, siêu thực.\n"
+  },
+  {
+    "title": "Mô hình LEGO",
+    "description": "Tạo một bộ sưu tập theo phong cách LEGO",
+    "previewImage": "https://i.ibb.co/BKt6ZSKw/LEGO.png",
+    "prompt": "Transform the person in the photo into a LEGO minifigure packaging box style, presented in isometric perspective. Label the box with the title ZHOGUE. Inside the box, display the LEGO minifigure based on the person in the photo, along with their essential items (such as makeup, bags, or other items) as LEGO accessories. Beside the box, also display the actual LEGO minifigure itself, unpackaged, rendered in a realistic and vivid style."
+  },
+  {
+    "title": "Chụp ảnh cưới",
+    "description": "Tạo một bộ sưu tập gồm 10 bức ảnh cưới độc đáo, giữ lại khuôn mặt của cô dâu và chú rể.",
+    "previewImage": "https://i.ibb.co/XqBNX9m/prompt-tao-anh-dam-cuoi-3.jpg",
+    "prompt": "\n**Nhiệm vụ:** Chụp ảnh cưới ảo chuyên nghiệp.\n\n**Vai trò:** Bạn là một nhiếp ảnh gia đám cưới và nghệ sĩ AI hàng đầu thế giới. Nhiệm vụ của bạn là tạo ra một bộ sưu tập gồm **10 bức ảnh cưới** độc đáo, chân thực và lãng mạn.\n\n**Thông tin đầu vào:**\n- **Ảnh 1 (Chú rể):** Chứa khuôn mặt của chú rể.\n- **Ảnh 2 (Cô dâu):** Chứa khuôn mặt của cô dâu.\n- **Các ảnh phụ (Concept - Tuỳ chọn):** Một hoặc nhiều ảnh tham khảo về bối cảnh, phong cách, ánh sáng, trang phục, hoặc tư thế.\n- **Yêu cầu bổ sung (Văn bản - Tuỳ chọn):** Hướng dẫn cụ thể từ người dùng.\n\n**Yêu cầu nghiêm ngặt:**\n1.  **Bảo toàn khuôn mặt tuyệt đối:** Đây là yêu cầu quan trọng nhất. Bạn **BẮT BUỘC** phải sử dụng chính xác khuôn mặt của chú rể từ Ảnh 1 và khuôn mặt của cô dâu từ Ảnh 2 cho tất cả 10 bức ảnh được tạo ra. **KHÔNG** được thay đổi, chỉnh sửa, hoặc tạo ra một khuôn mặt mới.\n2.  **Tạo 10 ảnh độc nhất:** Đầu ra của bạn phải là một bộ sưu tập gồm **chính xác 10 hình ảnh riêng biệt**. Mỗi hình ảnh phải khác nhau về tư thế, góc chụp, bối cảnh, hoặc bố cục.\n3.  **Lấy cảm hứng từ Concept:**\n    -   Nếu người dùng cung cấp ảnh concept, hãy sử dụng chúng làm nguồn cảm hứng chính cho bối cảnh (ví dụ: bãi biển, nhà thờ, rừng cây), phong cách (ví dụ: cổ điển, hiện đại, Hàn Quốc), và ánh sáng.\n    -   Nếu không có ảnh concept, hãy tự tạo ra các bối cảnh đám cưới lãng mạn và đa dạng.\n4.  **Chất lượng chuyên nghiệp:**\n    -   **Chân thực:** Tất cả các bức ảnh phải trông giống như được chụp bằng máy ảnh chuyên nghiệp, không có dấu hiệu của việc tạo ra bởi AI.\n    -   **Ánh sáng & Bóng đổ:** Ánh sáng và bóng đổ phải nhất quán trên cả cô dâu, chú rể và bối cảnh để tạo ra một tổng thể hài hòa.\n    -   **Tương tác tự nhiên:** Tạo ra những tư thế và biểu cảm tự nhiên, thể hiện sự tương tác và tình cảm giữa cặp đôi.\n5.  **Tuân thủ yêu cầu người dùng:** Nếu có yêu cầu bằng văn bản, hãy ưu tiên thực hiện chúng trong khi vẫn tuân thủ các quy tắc trên.\n\n**Kết quả đầu ra:**\n-   Một chuỗi gồm **10 hình ảnh**, mỗi hình ảnh là một tác phẩm ảnh cưới hoàn chỉnh.\n"
+  },
+  {
+    "title": "Concept: Tổng tài",
+    "description": "Biến ảnh chân dung thành ảnh CEO quyền lực trong văn phòng sang trọng hoặc bên xe hơi hạng sang.",
+    "previewImage": "https://i.ibb.co/bMms6N4T/ceo.png",
+    "prompt": "Berasio 9:16 with a slightly chubby tomboy guy, 1m56 tall, fair-skinned, with short Western-style hair, sitting by the driver’s seat with the door open on a 911 Carrera GTS parked in a lot in Vũng Tàu, Vietnam. Posing with his right hand resting on his right leg inside the car, left foot placed on the ground, and holding a black iPhone 16 Pro Max in his right hand, wearing a black Apple Watch.\nOutfit: black T-shirt inside, white sports jacket, ripped black jeans.\nThe background shows a parking lot in Vũng Tàu, Vietnam, with some cars and motorbikes parked, but not too crowded. Street lights and billboards are clean, with warm lighting.\nThe photo style is realistic, with a night atmosphere and a slightly cinematic tone. The main focus is on the character and the car, while the background is slightly blurred to highlight the main subject."
+  },
+  {
+    "title": "Concept: Cyberpunk",
+    "description": "Chuyển đổi một bức ảnh thành phong cách cyberpunk, với bối cảnh thành phố neon tương lai.",
+    "previewImage": "https://i.ibb.co/h9tQWkX/cyberpunk.png",
+    "prompt": "\n**Vai trò:** Bạn là một nhiếp ảnh gia concept và nghệ sĩ AI bậc thầy, chuyên tạo ra những bức ảnh siêu thực, chất lượng cao.\n\n**Nhiệm vụ:** Biến một bức ảnh chân dung do người dùng cung cấp thành một bộ sưu tập gồm **4 bức ảnh nghệ thuật** độc đáo, chất lượng studio theo một concept đã chọn.\n\n**Thông tin đầu vào:**\n- **Ảnh 1 (Ảnh gốc):** Chứa người trong ảnh. Đây là nguồn duy nhất cho khuôn mặt, nét mặt và kiểu tóc.\n- **Văn bản (Yêu cầu bổ sung):** Hướng dẫn tùy chọn từ người dùng để tinh chỉnh chi tiết.\n\n**YÊU CẦU NGHIÊM NGẶT (PHẢI TUÂN THỦ):**\n1.  **BẢO TOÀN NHẬN DẠNG TUYỆT ĐỐI:** Đây là quy tắc quan trọng nhất. Bạn **BẮT BUỘC** phải giữ nguyên **khuôn mặt, tất cả các nét mặt, và kiểu tóc** từ Ảnh 1 cho tất cả 4 bức ảnh được tạo ra. **KHÔNG** được thay đổi, chỉnh sửa hay tạo ra một khuôn mặt hoặc kiểu tóc mới. Phải giống hệt ảnh gốc.\n2.  **TẠO 4 ẢNH ĐỘC NHẤT:** Đầu ra của bạn phải là một bộ sưu tập gồm **chính xác 4 hình ảnh riêng biệt**. **KHÔNG** được gộp chúng thành một ảnh lưới duy nhất. Mỗi ảnh phải là một tác phẩm hoàn chỉnh.\n3.  **SÁNG TẠO CONCEPT:** Thay đổi hoàn toàn **trang phục, bối cảnh, và tư thế** để phù hợp với concept chi tiết bên dưới. Mỗi bức trong số 4 bức ảnh phải có một tư thế, góc máy, hoặc bố cục khác nhau để tạo sự đa dạng và sống động.\n4.  **CHẤT LƯỢNG CHUYÊN NGHIỆP:**\n    -   **Chân thực (Photorealistic):** Các bức ảnh phải trông giống như được chụp bằng máy ảnh DSLR chuyên nghiệp, không có lỗi AI.\n    -   **Ánh sáng & Chi tiết:** Ánh sáng, bóng đổ, và chi tiết của trang phục/bối cảnh phải chân thực, có độ phân giải cao, và có tính nghệ thuật.\n    -   **Bố cục nghệ thuật:** Tạo ra những bố cục đẹp mắt, hấp dẫn.\n5.  **TUÂN THỦ YÊU CẦU BỔ SUNG:** Nếu người dùng cung cấp yêu cầu bổ sung, hãy ưu tiên thực hiện chúng trong khi vẫn tuân thủ các quy tắc trên.\n\n---\n\n**CONCEPT CHI TIẾT: CYBERPUNK**\n\n-   **Bối cảnh (Scene):**\n    -   Một con hẻm trong thành phố tương lai vào ban đêm, đường phố ướt át phản chiếu ánh đèn neon từ các biển quảng cáo ba chiều.\n    -   Đứng trên sân thượng của một tòa nhà chọc trời, nhìn xuống thành phố cyberpunk bên dưới.\n-   **Trang phục (Attire):**\n    -   Quần áo công nghệ cao, áo khoác da, các chi tiết cấy ghép máy móc tinh tế, và các phụ kiện phát sáng neon.\n-   **Thần thái (Mood):** Sắc sảo, bí ẩn, nổi loạn, công nghệ.\n-   **Bố cục (Composition):**\n    -   Sử dụng bảng màu đặc trưng của cyberpunk (xanh lam, hồng, tím).\n    -   Ánh sáng có độ tương phản cao, nhiều bóng đổ. Góc chụp kịch tính.\n"
+  },
+  {
+    "title": "Phục hồi ảnh cũ",
+    "description": "Sửa chữa các hư hỏng, tăng cường độ nét và tô màu tự nhiên cho các bức ảnh cũ.",
+    "previewImage": "https://i.ibb.co/RGTLNRmN/t-i-xu-ng-10.jpg",
+    "prompt": "\n**Nhiệm vụ:** Phục hồi ảnh cũ chuyên nghiệp.\n\n**Vai trò:** Bạn là một chuyên gia phục chế ảnh kỹ thuật số. Mục tiêu của bạn là khôi phục bức ảnh được cung cấp về tình trạng ban đầu một cách chân thực nhất có thể.\n\n**Yêu cầu nghiêm ngặt:**\n1.  **Sửa chữa hư hỏng:** Sửa chữa tất cả các hư hỏng vật lý bao gồm vết rách, nếp gấp, vết xước, vết ố, và phai màu.\n2.  **Cải thiện chất lượng:** Khử nhiễu (noise/grain) và tăng cường độ sắc nét của các chi tiết một cách tinh tế mà không làm mất đi vẻ tự nhiên của ảnh gốc.\n3.  **Tô màu (nếu cần):** Nếu ảnh gốc là đen trắng, hãy tô màu một cách tự nhiên và chân thực. Màu sắc phải phù hợp với bối cảnh thời đại của bức ảnh. Nếu ảnh đã có màu, hãy khôi phục lại màu sắc gốc, làm cho chúng sống động trở lại.\n4.  **Bảo toàn toàn vẹn:**\n    - **KHÔNG** thay đổi bố cục, đối tượng, hoặc bất kỳ chi tiết nào trong ảnh.\n    - **KHÔNG** thêm bất kỳ yếu tố mới nào không có trong ảnh gốc.\n    - **KHÔNG** thay đổi biểu cảm hay đặc điểm của người trong ảnh.\n5.  **Giữ lại cảm xúc:** Mục tiêu cuối cùng là giữ lại nét đặc trưng, cảm xúc và linh hồn của bức ảnh gốc.\n\n**Yêu cầu bổ sung từ người dùng (nếu có):**\nNếu người dùng cung cấp thêm yêu cầu, hãy thực hiện chúng nhưng vẫn phải tuân thủ các yêu cầu nghiêm ngặt ở trên.\n\nHãy thực hiện việc phục hồi này một cách cẩn thận và tôn trọng nguyên bản.\n"
+  },
+  {
+    "title": "Tạo KOL bán hàng",
+    "description": "Tạo ảnh quảng cáo chuyên nghiệp với KOL tương tác cùng sản phẩm trong một bối cảnh phù hợp.",
+    "previewImage": "https://i.ibb.co/GQLrC6X/sales-kol.png",
+    "prompt": "\n**Nhiệm vụ:** Tạo ảnh quảng cáo chuyên nghiệp với KOL.\n\n**Vai trò:** Bạn là một giám đốc sáng tạo và chuyên gia retoucher kỹ thuật số. Nhiệm vụ của bạn là tạo ra một bức ảnh quảng cáo chân thực và hấp dẫn, trong đó một người (KOL) đang giới thiệu một hoặc nhiều sản phẩm.\n\n**Thông tin đầu vào:**\n- **Ảnh 1 (Ảnh KOL):** Đây là ảnh chính chứa người mẫu (KOL).\n- **Các ảnh phụ (Ảnh sản phẩm):** Một hoặc nhiều ảnh chứa các sản phẩm cần quảng cáo.\n- **Yêu cầu bổ sung (Văn bản):** Hướng dẫn tùy chọn từ người dùng về bối cảnh, phong cách, hoặc cách tương tác với sản phẩm.\n\n**Yêu cầu nghiêm ngặt:**\n1.  **Giữ nguyên nhận dạng KOL:** Giữ lại hoàn toàn các đặc điểm nhận dạng của KOL từ Ảnh 1, bao gồm khuôn mặt, nét mặt, và các đặc điểm chính.\n2.  **Tích hợp sản phẩm tự nhiên:**\n    -   Tách nền các sản phẩm và tích hợp chúng vào cảnh một cách tự nhiên.\n    -   Điều chỉnh tư thế của KOL (nếu cần) để họ tương tác với sản phẩm một cách hợp lý (ví dụ: cầm, đeo, đứng cạnh sản phẩm). Sự điều chỉnh phải trông tự nhiên và phù hợp.\n3.  **Tạo bối cảnh chuyên nghiệp:**\n    -   Tạo ra một bối cảnh (background) phù hợp với sản phẩm và phong cách quảng cáo (ví dụ: studio tối giản, quán cà phê sang trọng, đường phố đô thị, phong cảnh thiên nhiên).\n    -   Nếu người dùng cung cấp yêu cầu về bối cảnh, hãy tuân thủ nghiêm ngặt yêu cầu đó.\n4.  **Ánh sáng và bóng đổ chân thực:**\n    -   Toàn bộ cảnh phải có một nguồn sáng nhất quán. Ánh sáng trên KOL và sản phẩm phải khớp với nhau và với bối cảnh.\n    -   Tạo bóng đổ chính xác và mềm mại để tất cả các yếu tố trông như chúng thực sự ở cùng một nơi.\n5.  **Chất lượng hình ảnh cao cấp:**\n    -   Kết quả cuối cùng phải có độ phân giải cao, sắc nét, và trông giống như một bức ảnh được chụp chuyên nghiệp.\n    -   Màu sắc phải hài hòa, và tổng thể bức ảnh phải có tính thẩm mỹ cao.\n6.  **Tuân thủ yêu cầu người dùng:** Ưu tiên hàng đầu cho các yêu cầu bổ sung trong phần văn bản của người dùng.\n\n**KHÔNG ĐƯỢC LÀM:**\n- **KHÔNG** thay đổi hoàn toàn khuôn mặt hoặc làm mất đi nhận dạng của KOL.\n- **KHÔNG** đặt sản phẩm vào một cách gượng ép, phi thực tế.\n- **KHÔNG** tạo ra một bức ảnh ghép nối lộ liễu với ánh sáng không nhất quán.\n\nHãy tạo ra một tác phẩm quảng cáo hoàn hảo, nơi KOL và sản phẩm cùng tỏa sáng.\n"
+  },
+  {
+    "title": "Thử đồ online",
+    "description": "Mặc cho người mẫu các món đồ (quần, áo, tóc...) một cách chân thực và tự nhiên.",
+    "previewImage": "https://i.ibb.co/zhv9QFcT/thu-do.png",
+    "prompt": "\n**Nhiệm vụ:** Virtual Try-On Chuyên nghiệp.\n\n**Vai trò:** Bạn là một stylist kỹ thuật số và chuyên gia ghép ảnh cao cấp. Nhiệm vụ của bạn là mặc cho người mẫu trong ảnh chính (ảnh người mẫu) những món đồ được cung cấp trong các ảnh phụ (ảnh sản phẩm) mà không làm thay đổi khuôn mặt,dáng đứng,cử chỉ của người mẫu.\n\n**Thông tin đầu vào:**\n- **Ảnh 1 (Ảnh người mẫu):** Đây là ảnh chính chứa người mẫu toàn thân, bao gồm tư thế, vóc dáng, và bối cảnh. Đây là nền tảng của bức ảnh cuối cùng.\n- **Các ảnh phụ (Ảnh sản phẩm):** Có thể bao gồm các ảnh riêng lẻ cho: Kiểu tóc, Áo/Váy, Quần, Giày/Dép, Phụ kiện.\n- **Yêu cầu tùy chọn (Văn bản):** Hướng dẫn bổ sung từ người dùng.\n\n**Yêu cầu nghiêm ngặt:**\n1.  **Giữ nguyên người mẫu:** Giữ nguyên hoàn toàn tư thế, vóc dáng, biểu cảm khuôn mặt và đặc điểm nhận dạng của người mẫu từ Ảnh 1.\n2.  **Tách và áp dụng sản phẩm:**\n    -   Từ mỗi ảnh sản phẩm, hãy tách nền và chỉ lấy món đồ (ví dụ: chỉ lấy chiếc áo, đôi giày).\n    -   Mặc/áp dụng những món đồ này lên người mẫu trong Ảnh 1 một cách tự nhiên nhất có thể.\n3.  **Tính chân thực là trên hết:**\n    -   **Vừa vặn:** Đảm bảo quần áo và phụ kiện vừa vặn với cơ thể người mẫu, tuân theo đường cong và tư thế của họ.\n    -   **Nếp gấp & Chất liệu:** Tạo ra các nếp gấp, bóng đổ và kết cấu vải trông tự nhiên, phản ánh chất liệu của món đồ.\n    -   **Ánh sáng & Bóng đổ:** Ánh sáng trên các món đồ mới phải khớp hoàn toàn với điều kiện ánh sáng của Ảnh 1. Tạo bóng đổ chân thực của các món đồ lên cơ thể người mẫu và ngược lại.\n    -   **Phối cảnh:** Đảm bảo tất cả các món đồ được đặt đúng phối cảnh so với tư thế của người mẫu.\n4.  **Xử lý yêu cầu tùy chọn:** Nếu người dùng cung cấp yêu cầu bằng văn bản, hãy ưu tiên thực hiện chúng. Ví dụ: \"cho áo vào trong quần\" hoặc \"thay đổi màu nền thành xám nhạt\". Nếu không có yêu cầu, hãy giữ nguyên bối cảnh từ Ảnh 1.\n5.  **Kết quả liền mạch:** Bức ảnh cuối cùng phải trông giống như một buổi chụp ảnh thực tế, không có dấu hiệu chỉnh sửa hay ghép nối. Kết quả phải có độ phân giải cao, sắc nét và gắn kết.\n\n**KHÔNG ĐƯỢC LÀM:**\n- **KHÔNG** thay đổi khuôn mặt, vóc dáng, hoặc tư thế của người mẫu.\n- **KHÔNG** làm biến dạng các món đồ sản phẩm một cách phi thực tế.\n- **KHÔNG** tạo ra một bức ảnh ghép nối lộ liễu.\n\nHãy thực hiện việc thử đồ ảo này một cách hoàn hảo.\n"
+  },
+  {
+    "title": "Tạo Poster",
+    "description": "Thiết kế một poster hấp dẫn bằng cách kết hợp nhiều hình ảnh và một ý tưởng sáng tạo.",
+    "previewImage": "https://i.ibb.co/3s6tC95/poster.png",
+    "prompt": "\nBạn là một nhà thiết kế đồ họa và nghệ sĩ tạo poster chuyên nghiệp. Nhiệm vụ của bạn là tạo ra một tấm poster hấp dẫn dựa trên nhiều hình ảnh đầu vào và một bản tóm tắt sáng tạo từ người dùng.\n\n**Hướng dẫn:**\n1.  **Phân tích tất cả hình ảnh đầu vào:** Bạn sẽ nhận được một số hình ảnh. Đây là những tài sản chính cho tấm poster.\n2.  **Kết hợp tất cả tài sản:** Mọi hình ảnh được cung cấp phải được tích hợp vào bố cục poster cuối cùng.\n3.  **Thực hiện theo bản tóm tắt sáng tạo:** Bạn sẽ nhận được một lời nhắc văn bản từ người dùng. Đây là hướng dẫn của bạn về chủ đề, phong cách, tâm trạng của poster và bất kỳ văn bản nào cần bao gồm.\n4.  **Tạo một bố cục gắn kết:** Sắp xếp các yếu tố từ hình ảnh đầu vào một cách hài hòa. Hãy xem xét hệ thống phân cấp trực quan, sự cân bằng và luồng chảy. Kết quả phải trông giống như một tấm poster được thiết kế chuyên nghiệp, không chỉ là một bức ảnh ghép.\n5.  **Tạo một nền phù hợp:** Tạo một nền bổ sung cho chủ đề và bản tóm tắt của người dùng.\n6.  **Tích hợp văn bản một cách sáng tạo:** Nếu bản tóm tắt của người dùng bao gồm văn bản (như tiêu đề, tên hoặc khẩu hiệu), hãy kết hợp nó vào thiết kế với kiểu chữ và vị trí phù hợp.\n\nĐầu ra cuối cùng phải là một hình ảnh poster duy nhất, chất lượng cao, đáp ứng bản tóm tắt sáng tạo của người dùng bằng cách sử dụng tất cả các tài sản hình ảnh được cung cấp.\n"
+  },
+  {
+    "title": "Đổi mặt (Face Swap)",
+    "description": "Hoán đổi khuôn mặt từ ảnh nguồn sang ảnh mục tiêu mà vẫn giữ nguyên tóc, quần áo và bối cảnh.",
+    "previewImage": "https://i.ibb.co/7C9Cg7c/face-swap.png",
+    "prompt": "\n**Nhiệm vụ:** Hoán đổi khuôn mặt chuyên nghiệp.\n\n**Vai trò:** Bạn là một chuyên gia retoucher kỹ thuật số với kỹ năng cao trong việc ghép ảnh chân thực.\n\n**Thông tin đầu vào:**\n- **Ảnh 1 (Ảnh mục tiêu):** Chứa người mẫu, cơ thể, quần áo, kiểu tóc, và bối cảnh cần được giữ lại.\n- **Ảnh 2 (Ảnh nguồn):** Chứa khuôn mặt sẽ được sử dụng để thay thế.\n\n**Yêu cầu nghiêm ngặt:**\n1.  **Trích xuất khuôn mặt:** Chỉ trích xuất các đặc điểm khuôn mặt (mắt, mũi, miệng, cằm, cấu trúc xương má) từ Ảnh 2.\n2.  **Ghép chính xác:** Ghép khuôn mặt đã trích xuất từ Ảnh 2 vào vị trí khuôn mặt trên Ảnh 1.\n3.  **Giữ nguyên tuyệt đối:** Giữ lại **TẤT CẢ** các yếu tố khác từ Ảnh 1. Cụ thể:\n    - **Tóc:** Không thay đổi kiểu tóc, màu tóc, hoặc đường chân tóc.\n    - **Quần áo & Cơ thể:** Không thay đổi quần áo, vóc dáng, tư thế, hoặc bất kỳ phần nào của cơ thể.\n    - **Bối cảnh:** Không thay đổi nền, ánh sáng, hoặc bất kỳ vật thể nào xung quanh.\n    - **Tông màu da:** Điều chỉnh tông màu da của khuôn mặt mới để hoàn toàn khớp với tông màu da trên cổ và cơ thể của Ảnh 1.\n4.  **Kết quả tự nhiên:** Kết quả cuối cùng phải trông hoàn toàn tự nhiên, liền mạch, không có dấu hiệu chỉnh sửa. Ảnh phải có độ phân giải cao và sắc nét.\n\n**KHÔNG ĐƯỢC LÀM:**\n- **KHÔNG** thay đổi tóc.\n- **KHÔNG** thay đổi quần áo.\n- **KHÔNG** thay đổi nền.\n- **KHÔNG** thay đổi hình dáng cơ thể.\n- **KHÔNG** thay đổi ánh sáng tổng thể của Ảnh 1.\n\nThực hiện hoán đổi khuôn mặt một cách hoàn hảo.\n"
+  },
+  {
+    "title": "Đặt tượng vào đời thực",
+    "description": "Biến bạn thành một bức tượng vĩ đại được mọi người ngắm nhìn",
+    "previewImage": "https://i.ibb.co/YBfq23k4/Tuong.png",
+    "prompt": "A realistic photographic work. A gigantic statue of this person has been placed in a square in the center of Tokyo, with people looking up at it."
+  },
+  {
+    "title": "Ảnh cưới concept 1",
+    "description": "Ảnh cưới chuyên nghiệp",
+    "previewImage": "https://i.ibb.co/pr6b4fk3/anhcuoi.png",
+    "prompt": "Use our face from upload photo 100%\nA stylish, modern wedding or formal portrait. A handsome groom in a sharp black tuxedo with a bow tie is seated on a plush, olive-green armchair, looking confidently to the side. His posture is relaxed yet commanding, with one leg crossed. A beautiful bride, wearing a white, elegant dress (possibly a slip dress) with a soft updo, stands intimately behind him, leaning over with a gentle hand on his shoulder, gazing down at him with a soft smile. They are in a well-lit, sophisticated indoor setting with a high ceiling, featuring classic white wall paneling (wainscoting) and a natural wooden herringbone floor. A large, dramatic artificial banana leaf plant (or bird of paradise plant) in a black square planter dominates the background, adding a lush, tropical-modern contrast. The mood is intimate, elegant, and chic. Professional studio lighting, high resolution, cinematic shot, warm tones."
+  },
+  {
+    "title": "Chuyển đổi phong cách manga",
+    "description": "Thay đổi ảnh của bạn theo phong cách manga",
+    "previewImage": "https://i.ibb.co/9H8KM13c/manga.png",
+    "prompt": "Convert the input photo into a black-and-white manga-style line drawing."
+  },
+  {
+    "title": "Giáng sinh(Nữ)",
+    "description": "Concept 2",
+    "previewImage": "https://i.ibb.co/NdR2XmBg/giangsinh2.png",
+    "prompt": "Sử dụng khuôn mặt từ hình ảnh tôi cung cấp, giống đến 100%, tạo bức ảnh phụ nữ trẻ xinh đẹp, tóc đen dài gợn sóng, gương mặt thanh tú, biểu cảm nhẹ nhàng, mơ màng. Trang điểm tone hồng má hồng đậm\nTạo dáng : cô quỳ nhẹ hướng sang trái, tay phải chóng xuống đất, tay trái đưa lên chạm cây thông. Ngước mặt lên nhắm mắt cười nhẹ.\nMóng tay màu bạc nhũ sáng dài.\n• Trang phục:\n• áo cổ lọ không tay, len dày màu tím pastel\nChân váy ngắn lông xù, màu tím pastel\nMũ lông xù tím pastel lớn.\n• Nền:\n• Bên dưới chân là lớp gòn nhân tạo dày đặc\n• bên trái cô gái có 1 cây thông Noel lớn được trang trí với quả châu vàng, đỏ, thông khô và tuyết.\nPhía sau là bức tường đen, tạo hiệu ứng tuyết rơi, làm sáng chủ thể cô gái\n3. Ánh sáng và Hiệu ứng (Lighting & Effects):\n• Ánh sáng: Mềm mại, khuếch tán, ánh sáng tự nhiên kết hợp với ánh sáng ấm áp từ đèn trang trí.\n• Hiệu ứng: Hiệu ứng tuyết rơi nhẹ nhàng trong không khí, tạo cảm giác huyền ảo.\n4. Phong cách (Style):\n• Chụp ảnh thời trang mang phong cách giả tưởng (fantasy-inspired fashion photoshoot).\n• Màu sắc tươi sáng, sạch sẽ (clean and bright aesthetic).\n• Chi tiết siêu thực (hyper-realistic details).\n• Tổng thể mơ màng, mê hoặc (dreamy and enchanting)."
+  },
+      {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/7tKLk8cp/giangsinhnu3.png",
+        "prompt": "A festive portrait of a young woman with long, wavy hair decorated with small red bows, wearing a cozy white knit sweater with bold red cuffs. She smiles warmly with bright red lipstick and soft blush makeup, exuding cheerful holiday vibes. Around her are shiny red balloons and fresh apples, placed against a softly lit background with a cozy, celebratory atmosphere. Photorealistic, high detail, vibrant colors, editorial holiday photoshoot style."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 4",
+        "previewImage": "https://i.ibb.co/F4qwWdVs/giangsinhnu4.png",
+        "prompt": "Create a photo of me (face based on the uploaded reference photo). The face must exactly match the person in the reference photo — do not alter facial structure, skin tone, or hairstyle. A high-contrast, modern fashion portrait capturing a warm Christmas moment indoors. A young woman sits gracefully on a glossy wooden floor beside a tall Christmas tree decorated with red and white ribbons, metallic red and gold ornaments, and small red bows over green pine branches lightly dusted with snow. Behind her, a white fireplace adorned with two red stockings, stacked gift boxes in red and green wrapping paper, glowing white candles, and a pine wreath with pearls and a teddy bear accent. She wears an oversized red off-shoulder sweater revealing a white bra strap, with soft wavy long hair tied with red ribbons. Warm makeup tone: smooth skin, peach blush, deep red lips, thin eyeliner emphasizing bright expressive eyes. Gentle, confident expression with a slight smile, eyes looking into the camera. She poses sitting with legs extended to one side, holding a white gift box wrapped with a red ribbon — elegant and subtly sensual. Soft indoor lighting blends with candlelight and Christmas lights, creating a glowing festive atmosphere. Shot at a low front angle, shallow depth of field (f/1.4) for a softly blurred background that highlights the girl and the gift box. Dominant color palette: red, white, green — vibrant, balanced, and warm. Ultra-realistic 16K HDR, 16-bit color depth, cinematic lighting, panoramic illumination, fine texture, sharp focus, 300dpi — professional studio masterpiece."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 5",
+        "previewImage": "https://i.ibb.co/fd3XVPKK/giangsinhnu5.png",
+        "prompt": "Create a photo of me (face based on the uploaded reference image). The face must exactly match the person in the reference — no changes to facial structure, skin tone, or hairstyle. A luxurious and cozy Christmas interior, meticulously arranged. A young woman sits elegantly on a brown velvet chair beside a round table covered with a pure white lace cloth. On the table are neatly wrapped white gift boxes tied with bright red ribbons and a classic silver candelabra holding three tall white candles. Behind her stands a large Christmas tree dusted with artificial snow, decorated with red ribbons, golden and red ornaments, and twinkling fairy lights. Under the tree are variously sized gift boxes and a few teddy bears in red sweaters, adding warmth and homeliness. She wears a short off-shoulder red velvet dress trimmed with soft white fur around the neckline and sleeves, with a small bow at the chest. Her long, softly wavy hair falls over one shoulder, glossy and natural. A large red bow headband adorns her head. She wears delicate white lace stockings with floral patterns and small bows, paired with pointed white high heels—balancing elegance and sensuality. Makeup features warm tones: smooth matte base, light peach blush, deep red lipstick, thin eyeliner, curled lashes, and perfectly shaped brows—creating a confident, alluring look with a slightly cold and aristocratic expression as she gazes directly into the camera. Lighting combines soft artificial light with gentle natural light from the left window, producing even illumination, smooth reflections on skin and velvet, and shimmering highlights on hair and ornaments. Shot at eye level with balanced composition and shallow depth of field to softly blur the background and emphasize the subject. The red–white–gold palette is high-contrast yet harmonious, evoking a festive, modern, and elegant Christmas mood. Ultra-realistic 16K HDR photo, 16-bit color depth, cinematic lighting, global illumination, soft focus, shallow depth of field (f/1.4), high dynamic range, extremely detailed texture, sharp focus, professional photography quality, 300dpi, masterpiece."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 6",
+        "previewImage": "https://i.ibb.co/ymPCp6K7/giangsinhnu6.png",
+        "prompt": "Sử dụng khuôn mặt chuẩn 100% từ ảnh đã cung cấp, tạo bối cảnh của bức ảnh là một khung cảnh mùa đông/tuyết rơi giả tưởng lãng mạn. • Thiên nhiên: Phía sau người mẫu là một khu rừng thông (hoặc cây tuyết) với cây cối được bao phủ bởi tuyết trắng xóa và màu xanh đậm của lá cây, tạo chiều sâu cho bức ảnh. • Không gian: Người mẫu đang đứng giữa một lớp \"tuyết\" dày đặc (có thể là bông gòn, vật liệu giả tuyết, hoặc hiệu ứng khói/mây) cuộn lên xung quanh chân, nhấn mạnh không gian lạnh giá. • Hiệu ứng: Có hiệu ứng tuyết đang rơi (hoặc lớp mưa tuyết) được thêm vào toàn bộ ảnh, làm tăng cảm giác huyền ảo và lạnh lẽo của mùa đông. • Ánh sáng: Ánh sáng mềm mại, có phần tối hơn, tạo ra không khí huyền bí và cổ tích hơn so với bối cảnh studio trắng ở các ảnh trước. • Ngoại hình: Cô gái có mái tóc đen dài, xoăn lượn sóng rủ xuống vai, khuôn mặt trang điểm theo tông màu lạnh và gợi cảm. • Trang phục: Cô ấy mặc một bộ trang phục toàn màu trắng với nhiều chi tiết lông: • Áo khoác: Một chiếc áo khoác ngắn, cúp ngực (off-shoulder) và có mũ trùm đầu được viền bằng lông trắng dày. Chi tiết này làm nổi bật đôi vai trần. • Tất/Quần lưới: Cô ấy mặc tất lưới (fishnet stockings) màu trắng hoặc kem, một chi tiết gợi cảm và tương phản với sự \"ấm áp\" của lông. • Phụ kiện chân: Ở mắt cá chân, có phần lông trắng dày (giống như bốt hoặc bọc chân bằng lông), hòa quyện với lớp tuyết giả phía dưới, tạo hiệu ứng đôi chân như đang tan vào tuyết. • Tư thế và Biểu cảm: • Tư thế: Cô ấy đang đứng nghiêng người và hơi cúi xuống, một tay giữ vật thể. • Biểu cảm: Khuôn mặt hướng về phía trước với đôi mắt mở to, biểu cảm mơ màng, lạnh lùng hoặc ngạc nhiên, phù hợp với không khí của bức ảnh. • Đèn lồng (Lantern): Cô gái đang cầm một chiếc đèn lồng kiểu cổ điển (thường là đèn dầu). Chiếc đèn có khung kim loại tối màu và phát ra ánh sáng vàng ấm áp nổi bật, tương phản mạnh với tông màu trắng-lạnh của toàn bộ bối cảnh và trang phục. • Ý nghĩa: Chiếc đèn lồng này đóng vai trò là một điểm nhấn và nguồn sáng ấm áp trong đêm đông lạnh giá, thường tượng trưng cho sự dẫn đường, hy vọng hoặc sự ấm áp giữa giá lạnh."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 7",
+        "previewImage": "https://i.ibb.co/vvz3yC4z/giangsinhnu7.png",
+        "prompt": "Sử dụng khuôn mặt chuẩn 100% của hình ảnh được cung cấp, tạo bức ảnh Noel • Thiên nhiên: Phía sau vẫn là rừng thông phủ tuyết với tông màu lạnh (xanh, trắng, xám nhạt). • Không gian : cô đang quỳ/ngồi giữa một lớp \"bông gòn giả tuyết\" dày đặc và bồng bềnh (bông gòn hoặc vật liệu lông/giả mây), tạo cảm giác ấm áp và bao bọc. • Hiệu ứng: Vẫn có hiệu ứng tuyết đang rơi (mưa tuyết) trên toàn bộ ảnh, tăng cường không khí lạnh giá nhưng huyền ảo. • Ánh sáng: Ánh sáng mềm mại, tập trung làm nổi bật người mẫu và trang phục trắng, tạo ra không khí cổ tích, lãng mạn và có phần thần tiên. • Ngoại hình: Mái tóc đen dài, xoăn lượn sóng rủ xuống, gương mặt trang điểm nhẹ nhàng với tông màu hồng tự nhiên, đôi mắt to và làn da trắng. • Trang phục & Phụ kiện: Toàn bộ trang phục là màu trắng tinh và sử dụng chất liệu lông thú giả mềm mại: • Áo khoác: Một chiếc áo khoác ngắn, rộng (cropped jacket) hoặc áo khoác bolero, viền lông dày ở tay và cổ áo. • Đồ lót/Áo trong: Bộ đồ lót (bra top và quần short cạp cao) được làm bằng lông trắng, để lộ vùng eo và bụng. • Tất/Quần lưới: Cô ấy vẫn mặc tất lưới (fishnet stockings) màu trắng hoặc kem, một chi tiết tương phản làm tăng sự gợi cảm. • Mũ/Phụ kiện tóc: Đáng chú ý nhất là mũ/băng đô tai thỏ (bunny ears) bằng lông trắng lớn, biến người mẫu thành một nhân vật \"thỏ mùa đông\" đáng yêu và tinh nghịch. • Tư thế và Biểu cảm: • Tư thế: Người mẫu đang quỳ gối trên lớp tuyết giả, hai tay đưa lên cao, giữ tai thỏ hoặc thể hiện sự vui tươi. • Biểu cảm: Cô ấy mỉm cười nhẹ nhàng, nhìn thẳng vào ống kính với ánh mắt mời gọi, tạo cảm giác thân mật và vui vẻ. • Đèn lồng (Lantern): Ở góc dưới bên trái, ta thấy một phần nhỏ của chiếc đèn lồng kiểu cổ điển (tương tự bức ảnh trước) với ánh sáng vàng ấm áp. Chiếc đèn này chỉ xuất hiện một phần nhỏ nhưng vẫn đóng vai trò là điểm nhấn ấm áp."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 8",
+        "previewImage": "https://i.ibb.co/CKzV2y92/giangsinhnu8.png",
+        "prompt": "Sử dụng khuôn mặt chuẩn 100% của hình ảnh được cung cấp, tạo bức ảnh Bối cảnh của bức ảnh rất rõ ràng là một buổi chụp hình theo chủ đề Giáng sinh/Mùa đông. • Màu sắc và Ánh sáng: Nền ảnh là màu trắng tinh khôi (hoặc studio trắng), tạo ra sự tương phản nổi bật với người mẫu và các vật thể. Ánh sáng mạnh, mềm mại và đều, thường thấy trong ảnh studio, làm nổi bật khuôn mặt và trang phục. • Không khí: Không khí toát lên vẻ ấm áp, ngọt ngào, và vui tươi của dịp lễ hội cuối năm. • Ngoại hình: Cô gái có mái tóc xoăn nhẹ màu nâu hạt dẻ, gương mặt trang điểm nhẹ nhàng theo phong cách tự nhiên, với má hồng phớt và môi hồng. Cô ấy đang nhìn thẳng vào ống kính mĩm cười nhẹ. • Trang phục: Cô ấy mặc một chiếc áo len dệt kim oversized (quá khổ) dài, màu kem/trắng ngà. Chiếc áo có vẻ ngoài ấm áp, với chi tiết rách nhẹ (distressed) ở cổ, gấu áo và cổ tay, tạo thêm chút phong cách. Chiều dài áo che gần hết phần dưới cơ thể, tạo hiệu ứng \"giấu quần\" (oversized sweater dress). • Cây thông Noel (Christmas Trees): • Cây lớn: Có một phần của một cây thông Noel giả lớn màu xanh đậm nằm ở góc dưới bên trái. • Phụ kiện đội đầu: Cô gái đội một phụ kiện tóc hình cây thông Noel nhỏ màu xanh lá cây, được trang trí bằng các chi tiết màu trắng (giống như quả bông hoặc tuyết), rất dễ thương và độc đáo. • Trang trí (Decorations): • Một quả châu Giáng sinh màu bạc/trắng được treo trên cành cây thông lớn ở bên trái. • Chi tiết khác: • Có vẻ như có một lớp lông hoặc vật liệu mềm mại màu trắng (có thể là giả tuyết hoặc thảm lông) ở chân cô gái, tăng thêm cảm giác ấm áp và mùa đông."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 9",
+        "previewImage": "https://i.ibb.co/JWHHzTJv/giangsinhnu9.png",
+        "prompt": "Sử dụng khuôn mặt chuẩn 100% của hình ảnh được cung cấp, tạo Bối cảnh Giáng sinh/Mùa đông • Màu sắc và Ánh sáng: Nền màu trắng xám khói với ánh sáng studio mềm mại, tạo phông nền hoàn hảo cho trang phục và đạo cụ lễ hội. • Chữ viết: Đáng chú ý, ở góc trên bên trái có thêm dòng chữ \"MERRY CHRISTMAS\" màu xanh lá cây đậm, củng cố chủ đề lễ hội. • Tư thế: Lần này người mẫu ngồi trên sàn studio, tạo cảm giác gần gũi và ấm cúng hơn so với tư thế đứng ở ảnh trước. • Ngoại hình: Mái tóc xoăn nhẹ màu nâu hạt dẻ, trang điểm nhấn vào đôi môi và má hồng. • Trang phục: Cô ấy vẫn mặc chiếc áo len dệt kim oversized màu kem/trắng ngà với chi tiết rách nhẹ. Chiếc áo quá khổ này khi ngồi vẫn tạo cảm giác ấm áp và thoải mái. • Tư thế và Biểu cảm: • Tư thế: Người mẫu đang ngồi khoanh chân một cách thoải mái. • Biểu cảm: Biểu cảm lần này là một sự nghĩ ngợi hoặc tinh nghịch. Cô ấy đang nhìn sang bên phải (không nhìn thẳng vào ống kính) và đặt ngón tay trỏ lên môi, gợi lên sự tò mò, bí mật hoặc ý tưởng mới. • Cử chỉ: Đặt ngón tay lên môi là một cử chỉ thường thấy trong các bức ảnh thời trang để thêm chiều sâu và sự hấp dẫn. • Cây thông Noel (Christmas Tree): Một phần của cây thông Noel giả lớn vẫn nằm ở góc trên bên phải. • Trang trí (Decorations): Có thể thấy một quả châu lớn màu bạc/xám được treo trên cành cây thông. • Phụ kiện đội đầu: Cô gái vẫn đội phụ kiện tóc hình cây thông Noel nhỏ màu xanh lá cây. • Thảm/Đệm: Cô ấy đang ngồi trên một lớp đệm hoặc thảm lông màu trắng dày, xù (gợi nhớ đến tuyết hoặc sự ấm áp của mùa đông). Phần lông trắng này rất nổi bật dưới đầu gối."
+    },
+    {
+        "title": "Giáng sinh(Nữ)",
+        "description": "Concept 10",
+        "previewImage": "https://i.ibb.co/jZy2zszY/giangsinhnu10.png",
+        "prompt": "Sử dụng hình ảnh khuôn mặt 100% với ảnh được cung cấp, tạo bức ảnh Giáng Sinh như ở Studio Chủ đề: Giáng Sinh (Christmas) / Mùa Đông. • Không gian: Bối cảnh studio được thiết kế giống như một góc phòng ấm cúng. • Tường: Tường màu kem/be nhạt đơn giản, tạo nền trung tính để làm nổi bật các vật thể trang trí. • Không khí: Ấm cúng, ngọt ngào và có phần vintage/cottagecore nhẹ nhàng do tông màu và các vật dụng trang trí như nến, đèn. Loại Ánh sáng: Ánh sáng trong ảnh là ánh sáng mềm (soft light), giúp làm nổi bật người mẫu và các vật thể mà không tạo bóng gắt. • Màu sắc Ánh sáng: Ánh sáng có tông ấm (warm/golden tone), đặc biệt là ở phía sau bên phải, tạo cảm giác ấm áp, lung linh và lãng mạn như ánh nến. • Nguồn sáng: Có vẻ như có một nguồn sáng chính (key light) mềm đặt ở phía trước người mẫu để chiếu sáng rõ ràng, và các nguồn sáng trang trí (như đèn/nến) tạo điểm nhấn ở hậu cảnh. Trang phục: • Bên trong: Váy ngắn/áo hai dây dệt kim màu trắng kem, có kết cấu nhẹ nhàng. • Bên ngoài: Áo khoác cardigan màu đỏ tươi (đỏ Giáng Sinh) dáng oversized, xù nhẹ (knit/fluffy), tạo điểm nhấn màu sắc mạnh mẽ và cảm giác ấm áp. • Phụ kiện chân: Vớ cổ cao màu đỏ tươi có quả bông trắng, giày bệt tối màu (hoặc ẩn). • Làm tóc & Trang điểm: • Tóc tết thành hai bím dây thừng (rope braids) dài, mang lại vẻ trẻ trung, đáng yêu. • Phụ kiện tóc: Kẹp tóc hình quả cherry màu đỏ, rất phù hợp với phong cách ngọt ngào (cute/dollish). • Trang điểm: Tông hồng đào/cam đất nhẹ nhàng, má hồng và môi tươi tắn, củng cố vẻ ngoài trẻ trung. • Tạo dáng: Đứng, một chân hơi cong nhẹ, ôm gấu bông nhỏ, tay kia chạm nhẹ vào áo khoác. Tư thế ngọt ngào, hồn nhiên và rất poseable. Cây Giáng Sinh (trái): Được trang trí với nơ đỏ, quả châu đỏ và dây ruy băng tartan/kẻ sọc, chiếm một góc quan trọng trong khung hình. 2. Gấu Bông: Gấu nhỏ: Người mẫu ôm một chú gấu bông nhỏ màu nâu (cũng có chi tiết cherry). • Gấu lớn: Một chú gấu bông rất lớn màu nâu nhạt ngồi ở bên phải, tạo thêm sự ấm cúng và đáng yêu. 3. Bàn/Kệ (phải): Có một chiếc bàn gỗ tối màu đặt các vật trang trí vintage: • Nến: Ba cây nến đỏ cao trong chân nến kim loại (candelabra) và một cây nến vàng đơn. 4. Hộp Quà đặt dưới chân cây thong"
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/TDBj1WGD/tieuthu1.png",
+        "prompt": "Tạo ảnh với độ phân giải cao từ ảnh tham khảo. Giữ nguyên các nét trên khuôn mặt của tôi. Chân dung cận cảnh với phong cách 'bạch nguyệt quang' lãng mạn. Một cô gái có mái tóc dài hơi rối tự nhiên, dáng ngồi với 2 tay đặt lên trước, đôi mắt nhìn thẳng vào ống kính với ánh nhìn mơ màng. Ánh sáng tone lạnh tự nhiên chiếu từ phía sau và bên trái, làm nổi bật làn da trắng mịn. Đôi môi hồng cam căng mọng, cô mặc 1 chiếc váy hồng cup ngực có kèm chiếc khăn cổ hé lộ bông hoa hồng cùng màu với chiếc váy tạo nên vẻ đẹp thanh tú đầy cuốn hút. Đôi mắt đen sâu thẳm, biểu cảm, bầu không khí mãnh liệt. Bố cục điện ảnh, nền sáng hài hòa với độ tương phản sáng tối cao. Chụp ở độ phân giải cực cao tạo nên một bức chân dung ấn tượng và ấn tượng giống chụp ở studio"
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/ymdTwK4d/tieuthu2.png",
+        "prompt": "Tạo ảnh chân dung có độ sắc nét cao. Giữ nguyên nét khuôn mặt mẫu tham khảo. Cô mặc chiếc áo ba lổ trắng croptop, cô đeo 1 chiếc kính, kèm chiếc áo khoác da màu nâu bên ngoài, chân váy ngắn tennis Thắt lưng nâu với khóa kim loại có biểu tượng \"TOM\" và mũ nồi da nâu. vòng cổ dây chuyền làm bằng vàng mảnh Hoa tai đinh tán nhỏ, đơn giản. Đồng hồ nhỏ Apple watch trên cổ tay phải. Tay phải cô chống cằm, với những ngón tay thon dài. Tay trái cô cầm bó hoa cúc hoạ mi lớn đư ói trong báo cũ, khuỷu tay trái đặt trên một kệ gỗ cổ điển cao khoảng tầm cô, bên trong có một vài cuốn sách. • Nền mờ, bao gồm một bức tường phủ đầy báo cũ hoặc giấy cũ. • Ánh sáng dịu nhẹ, tập trung vào chủ thể, tạo cảm giác hơi hoài cổ. • Bảng màu chủ đạo bao gồm nâu, trắng, đen, với điểm nhấn là màu xanh lá cây của lá và màu trắng của hoa. • Phong cách/Tâm trạng: Thanh lịch, nhẹ nhàng, hơi cổ điển và nữ tính."
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/rGybfq9q/tieuthu3.png",
+        "prompt": "Tạo cho mình một bức ảnh dùng chính khuôn mặt trong ảnh đính kèm, 1 cô gái với ánh mắt xa xăm, gợi cảm giác hoài niệm đứng trước đoàn tàu đang chuyển động lúc hoàng hôn, tay cầm bó hoa hồng nhạt, mặc váy lụa sáng màu, thắt lưng mảnh, khoác lên vai một chiếc khăn lụa hơi rộng. Mái tóc đen gợn sóng, tung bay trong gió, nhẹ nhàng che đi một bên mặt, tăng thêm nét quyến rũ bí ẩn. Bối cảnh: đoàn tàu mờ ảo với dòng chữ VN-1982, ánh đèn vàng ấm áp từ bên trong, nền trời xanh mát của buổi chiều tà. Ánh sáng dịu nhẹ, hơi u ám, đôi mắt biểu cảm, trang điểm tinh tế và nét mặt u buồn. Phong cách điện ảnh, lãng mạn, hoài niệm."
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 4",
+        "previewImage": "https://i.ibb.co/NdXggBKn/tieuthu4.png",
+        "prompt": "Ultra-realistic, ultra-high-resolution (8K–16K) cinematic 3D studio portrait. View from behind a charming young woman (cute-girl vibe) walking gracefully up a grand spiral staircase made of polished marble with matching marble railings. She wears an extravagant, ultra-voluminous white satin gown that dramatically billows and flows along the stairs, emphasizing luxury and elegance. She lightly holds the railing with one hand and turns her head to look back at the camera with a sweet, enchanting expression. Her face is 100% identical to the reference photo, including exact eyebrows, eyes, nose, lips, and hairstyle. The studio scene is bright, clean, and elegant, with luminous lighting highlighting every fold and shimmer of her gown, the polished marble staircase, and her radiant skin. Subtle shadows create depth, while bright reflections on the marble add sophistication. Her hair and gown move naturally as if caught by a gentle breeze. Attention to every detail: satin texture, skin, subtle makeup, delicate accessories, and sparkling highlights. Overall mood: luxurious, enchanting, high-fashion, cute-girl, bright, sophisticated, and cinematic, with full 3D depth and elegance."
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 5",
+        "previewImage": "https://i.ibb.co/dszvWQnJ/tieuthu5.png",
+        "prompt": "Create ultra-high-resolution 8K photo-realistic images of the original person (100% exact facial likeness, no alterations).\n(masterpiece, ultra-detailed, photorealistic, 8k), half-body close-up portrait of a beautiful young woman, long wavy dark hair with see-through bangs, wearing white lace sleeveless dress, white lace bonnet headpiece, small pink and white flowers decorating her hair, tiny pressed flowers on her face, flawless porcelain glowing skin, light gray contact lenses, long curled lashes, soft pastel pink eyeshadow, rosy blush, glossy vivid pink-red lips, holding bouquet of small pink and white flowers, direct gaze, dreamy innocent expression, beige background, soft romantic pastel tone, studio lighting, eye-level shot"
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 6",
+        "previewImage": "https://i.ibb.co/LVMQBNp/tieuthu6.png",
+        "prompt": "A beautiful young woman with soft, natural makeup and her hair styled in a loose bun with a few strands falling naturally. She wears a long, flowing beige chiffon dress, off-shoulder, delicate and elegant. In her arms, she holds a large bouquet of ivory and pale yellow flowers, including orchids, dried flowers, and decorative blossoms with a classic style. She poses gracefully, standing on tiptoe with one leg slightly bent, revealing her long slender leg through the high slit of the dress. The background features draped cream fabric, a bare branch adorned with white blossoms above, a golden candle holder, and a Greek-style column, creating an artistic, romantic scene. Soft warm white lighting highlights her skin and the flow of the dress, making the atmosphere resemble a fine art fashion editorial or a modern bridal photoshoot."
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 7",
+        "previewImage": "https://i.ibb.co/WNDcy9xJ/tieuthu77.png",
+        "prompt": "Photorealistic dreamy boudoir portrait of a young woman lying on her stomach on a rumpled ivory bed, surrounded by soft floral arrangements and delicate props. Soft warm golden-backlit window light with gentle lens flare and floating soap bubbles. Wearing a vintage-style lace bonnet with pale pink tiny flowers and pearls, long dark wavy hair spilling over shoulders, soft face-framing tendrils. Outfit: short ivory/pearl-pink lace + tulle dress with ruffles, sheer lace gloves and optional knee socks with lace trim. Makeup: dewy porcelain skin with natural visible texture, subtle luminous highlight on cheekbones and nose, rosy \"Igari\" blush across apples of cheeks and bridge of nose, warm rose-brown eyeshadow, thin soft eyeliner (no heavy wing), natural curled lashes, soft full brows, glossy rosy-pink lips with slight gradient. Props: open book, string of pearls, crystal accent, silver tray with strawberries, scattered pale pink roses and petals, vase of blossoms in background. Lighting: main soft window light"
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 8",
+        "previewImage": "https://i.ibb.co/zh1TCPHH/tieuthu8.png",
+        "prompt": "Sharp, high-resolution portrait, 9:16 ratio, top-down angle, surreal. Focus on face and bare shoulders. Keep correct facial proportions (eyes, nose, mouth, contours). Fair glowing skin, natural makeup, elegant expression. Long delicate eyelashes, black hair in a loose bun with a few strands falling gently. Soft sunlight casting vertical or mesh-like artistic shadows on face and shoulders. Cinematic style, dreamy and graceful, emphasizing beauty, innocence, and stillness. Light, discreet elegant dress with a small necklace."
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 9",
+        "previewImage": "https://i.ibb.co/mrYhxv4L/tieuthu9.png",
+        "prompt": "8K wide-angle shot, the woman's face is 100% the original. It is a close-up of the woman's face in the picture. The face is illuminated by soft golden sunlight mixed with warm colored light. She has soft, natural skin, fine hair blown across her face, her lips are slightly parted, and her eyes are glanced to the side, looking up, catching the sunlight and capturing the moment of thought and emotion. The sunlight falls heavily on her face, highlighting her eyes, cheekbones, lips, and collarbone. The model's figure is slender, and casts a soft shadow, creating depth and atmosphere, adding elegance and softness to the composition. Wearing a white polka dot crop top, tight-fitting, white sexy balloon shorts, wearing a small cream-colored pearl bracelet, and small pearl earrings. Her right hand holds a cup of coffee from a cafe, her left hand holds a small bouquet of flowers, sitting on a white chair, with a white round table in front, showing the posture of drinking coffee, with a white lace scarf. The light is natural daylight, creating a gentle radiance on her skin and hair. Delicate, with subtle highlights and natural shadows. The background is slightly blurred. Classic minimalist cafe. And with many bushes and white flowers and green leaves, add depth with a smooth bokeh effect, change the details very realistically: the skin that is similar to the pores along"
+    },
+    {
+        "title": "Tiểu thư",
+        "description": "Concept 10",
+        "previewImage": "https://i.ibb.co/JWs8rWpc/tieuthu10.png",
+        "prompt": "Sử dụng hình ảnh khuôn mặt tôi cung cấp từ ảnh lấy rỏ mặt 100%c tạo bức chân dung cô gái với mái tóc nâu đen dài nhiều phồng to gợn sóng được kẹp một chiếc kẹp tóc ngọc trai bên thái dương, và đeo khuyên tai ngọc trai đen. Cô ấy trang điểm tone hồng má hồng xinh xắn. Làn da cô trắng tinh. Cô mặc một chiếc váy 2 dây bản to, váy babydoll mặc kiểu giấu quần, (chiếc váy phồng to dạng bí) màu hồng phấn, Cô đang cầm một bó hoa hồng màu trắng và hồng to được gói bằng giấy báo màu nâu và một chiếc túi xách nhỏ tròn màu trắng được đan bằng ngọc trai sang trọng mini. Cô nhẹ nhìn vào ống kính thư giản nhẹ nhàng. Cô đứng cạnh một xe ba gác lề đường bán hoa rực rỡ sắc màu, xe chất đầy hoa tươi, với rất nhiều loại hoa: hoa hướng dương, hoa cẩm tú cầu hồng và trắng, và hoa sen cùng các loại hoa khô màu xanh, tím xếp chồng lộn xộn các loài hoa nhưng vẫn hài hoà màu sắc, Hình ảnh toát lên vẻ đẹp ngọt ngào, thời trang và tươi tắn. Bối cảnh ngoài trời, nắng sáng rọi người cô sáng lên, nên thơ."
+    },
+    {
+        "title": "Đi biển(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/ccHNgDmp/dibiennu1.png",
+        "prompt": "Từ bức ảnh khuôn mặt tôi đăng tải, giúp tôi tạo một bức ảnh cô gái đứng ở khu resort bãi biển, có hàng dừa cao. Cô trang điểm tone hồng má hồng dễ thương xinh xắn, đầu đội khăn ren. Mái tóc dài nhiều gợn sóng gió thổi bay lã lơi tự nhiên, màu nâu đen Quần áo: mặc chiếc áo 2 dây bra ren kem, khoác ngoài áo sơ mi tơ kiếng màu hồng pastel, vạc áo buộc ngay eo lõng lẽo, kết hợp với quần phi lụa đuôi cá màu kem tôn dáng, cô có dây đeo cổ bằng những vỏ sò, vỏ ngọc trai xinh tươi, cá tính. Phụ kiện: một chiếc túi len đan hoa tulip nhiều màu sắc, túi to treo trên vai phải, có một chiếc móc nhỏ đầy màu sắc trên túi. Cô đeo một chiếc vòng tay đính cườm trên cổ tay trái."
+    },
+    {
+        "title": "Đi biển(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/0p68sDYd/dibiennu2.png",
+        "prompt": "Từ bức ảnh khuôn mặt tôi đăng tải, giúp tôi tạo một bức ảnh cô gái đứng ở khu resort cạnh bãi biển. Cô trang điểm tone hồng dễ thương xinh xắn, Mái tóc dài nhiều thắt bím một bên vai, bím tóc to dài hơi rối nhẹ, điểm nhấn là hoa sứ trắng cài bên tai Quần áo: cô mặc chiếc áo yếm xanh nhạt vải lụa dạng croptop có đính nơ trước ngực, kết hợp với váy đuôi cá màu trắng, cô có dây đeo cổ bằng những vỏ sò, vỏ ngọc trai xinh tươi, cá tính. Phụ kiện: một chiếc túi len đan hoa tulip nhiều màu sắc, túi to treo trên vai phải, có một chiếc móc nhỏ đầy màu sắc trên túi. Cô đeo một chiếc vòng tay đính cườm trên cổ tay trái. Hai tay cô cầm chiếc mây ảnh màu hồng nâng nhẹ lên ngực như chuẩn bị chụp ảnh"
+    },
+    {
+        "title": "Đi biển(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/4gZGd0Tv/dibiennu3.png",
+        "prompt": "Từ bức ảnh khuôn mặt tôi đăng tải, giúp tôi tạo một bức ảnh cô gái đang ngồi trên xích đu ở bãi biển. Cô trang điểm tone hồng dễ thương xinh xắn, Mái tóc dài gợn sóng màu đen điểm nhấn là hoa sứ trắng cài bên tai. Cô mặc chiếc áo yếm xanh nhạt vải lụa dạng croptop có đính nơ trước ngực, kết hợp với váy lụa đuôi cá màu trắng, cô có dây đeo cổ bằng những vỏ sò, cá tính. Phụ kiện: một chiếc túi len đan hoa tulip nhiều màu sắc, túi to đặt cạnh cô, có một chiếc móc nhỏ đầy màu sắc trên túi, và có nón cối tai bèo đặt sát bên túi. Cô đeo một chiếc vòng tay đính cườm trên cổ tay trái. Hai tay cô cầm dây xích đu tự nhiên thoải mái."
+    },
+    {
+        "title": "Đi biển(Nữ)",
+        "description": "Concept 4",
+        "previewImage": "https://i.ibb.co/v4bT8xMn/dibiennu4.png",
+        "prompt": "สร้างรูปผู้หญิงคนนี้ใส่ชุดบิกินี่ในรูปที่แนบลงไปเป็นกระโปรงสั้นตามรูปที่แนบในแบบรูป (แนบชุดเราลงไปด้วย)\nเธอนั่งอยู่บนโขดหินน้ำทะเลสีฟ้าใสสะอาดมีภูเขาสูงเขียวขจีบรรยากาศเหมือนเกาะพีพีด้านหลังมีนักท่องเที่ยวกำลังดำน้ำมีเรือยอร์ชจอดอยู่ด้านหลัง โดยไม่เปลี่ยนใบหน้าและยังคงให้ใบหน้าเหมือนต้นฉบับ 100%"
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/tpvXYBKF/Tetnu1.png",
+        "prompt": "Sử dụng gương mặt tôi đăng tải, giữ nét mặt chuẩn 100%, tạo chân dung cô gái trẻ châu Á đang đứng ở góc bếp xưa, có bếp củi, những giỏ đan đựng chứa nhiều rau củ quả được treo nối tiếp nhau, bếp có nồi bánh tét to khói nghi ngúc, tay cô đang cầm rổ bánh tét, bánh chưng chất cao, để qua một bên eo, tay còn lại cô cầm bán tét đưa lên gần má như khoe đang nấu bánh tết, ánh mắt long lanh nhìn nhẹ ống kính dễ thương cười mĩm, Cô makeup tone hồng má hồng đậm, làn da trắng bột xinh tươi. Cô ấy mặc một bộ áo bà ba xanh đọt chuối sáng, vải gấm rộng rải tay lỡ dạng rộng, quần màu trắng. Cô đeo một chuỗi vòng cổ ngọc trai màu trắng tinh. Mái tóc đen dài nhiều được bím tóc to rối nhẹ một bên, điểm xuyết một phụ kiện tóc hoa nhí màu trắng. Bối cảnh nên thơ, phía sau cô mờ dần để tạo cho cô là điểm nhấn đặt biệt trong khung ảnh, tạo nên một không gian và yên bình."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/vCsB1dyY/tetnu2.png",
+        "prompt": "Từ bức ảnh khuôn mặt của tôi cung cấp, tạp bức bức chân dung cận cảnh tuyệt đẹp, chất lượng cao, độ phân giải 4K, phong cách chụp ảnh nghệ thuật. Tiêu điểm là một cô gái với làn da trắng, trang điểm nhẹ nhàng, đôi má hồng và son môi màu hồng đào tự nhiên. Cô ấy nhìn nghiêng nhẹ, ánh mắt mơ màng, biểu cảm dịu dàng, trầm tư. Tóc cô được búi nửa đầu gọn gàng với chiếc kẹp tóc hoa đào. Cô mặc một chiếc Áo dài cách tân màu trắng kem/trắng ngà với chất liệu ren hoặc vải dệt hoa tinh tế, tay áo loe nhẹ, thân áo rộng. Hai tay Cô đang cầm một cành cây khô tàn to, cụ thể là cành mai có nhiều hoa mai vàng và nụ tầm xuân. Bối cảnh là một công trình kiến trúc cổ kính của Việt Nam nhà cổ với những bậc thang và mái ngói màu xám, các bật thang đều có chậu hoa cúc mâm xôi to rộn ràng không khí Tết, được làm mờ nhẹ (bokeh). Ánh sáng tự nhiên mềm mại, nhẹ nhàng, như ánh nắng sớm hoặc chiều tà. Màu sắc ấm áp, hài hòa, mang hơi hướng hoài cổ/vintage và không khí Tết truyền thống.\""
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/7t764VHm/tetnu3.png",
+        "prompt": "Từ gương mặt tôi cung cấp, giữ nét 100%, tạo một bức ảnh cô gái Châu Á trẻ trung, vẻ mặt trầm tư và dịu dàng, với mái tóc nâu sẫm buông xõa một phần và kẹp gọn gàng phía sau. Cô ấy trang điểm nhẹ nhàng với má hồng và đôi môi phớt hồng. Cô mặc một chiếc áo dài cách tân màu trắng ngà, với họa tiết hoa văn thêu/in chìm tinh tế màu nâu nhạt, tạo cảm giác mềm mại và cổ điển. Cô đeo một chiếc vòng tay đính hạt màu trắng bạc và đang cầm một chiếc quạt giấy nhỏ màu be có họa tiết tinh xảo. Tay cô ấy đặt nhẹ nhàng trên quạt để lên ngực. Phía sau cô là mặt nước xanh ngọc lấp lánh, tạo nên một khung cảnh thanh bình, lãng mạn và có chút hoài cổ."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 4",
+        "previewImage": "https://i.ibb.co/wNzZ3hJX/tetnu4.png",
+        "prompt": "Từ gương mặt đã được cung cấp, tạo một bức ảnh cô gái có vẻ mặt mơ màng thoáng nhìn lên, với mái tóc nâu sẫm được búi thấp và có vài lọn tóc buông nhẹ. Cô ấy trang điểm nhẹ nhàng với má hồng và đôi môi phớt hồng. Cô mặc một chiếc áo dài cách tân thân rộng tay rộng màu hồng kem duyên dáng, với chất liệu ren hoặc thêu hoa văn tinh xảo toàn bộ áo, tạo cảm giác sang trọng và dịu dàng. Cổ áo có kiểu khoá nút thắt truyền thống. Cô đeo một chiếc vòng tay đính hạt màu trắng bạc. Tay cô ấy đan vào nhau một cách duyên dáng, giữ một cành cây đào khô với những nụ hoa tầm xuân nhỏ. Bối cảnh phía sau mờ ảo, có thể là không gian ngoài trời với ánh sáng dịu nhẹ, tạo nên một khung cảnh thanh bình, lãng mạn và đậm chất Tết truyền thống."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 5",
+        "previewImage": "https://i.ibb.co/ks9N3Jpj/tetnu5.png",
+        "prompt": "Từ gương mặt đã được cung cấp, tạo một bức ảnh cô gái có vẻ mặt mơ màng thoáng nhìn ngang, với mái tóc nâu sẫm được búi thấp và có vài lọn tóc buông nhẹ. Cô cài hoa đào bên tai. Cô ấy trang điểm nhẹ nhàng với má hồng và đôi môi phớt hồng. Cô mặc một chiếc áo dài cách tân thân rộng tay rộng màu xanh coban vải gấm, với chất liệu vải gấm, tạo cảm giác sang trọng và dịu dàng. Cổ áo có kiểu khoá nút thắt truyền thống. Tay cô ấy đan vào nhau một cách duyên dáng, giữ một nhánh cây đào khô tàn cây to với những nụ hoa tầm xuân nhỏ. Bối cảnh phía sau mờ ảo, có thể là không gian cây mai ngày Tết ngoài trời với ánh sáng dịu nhẹ, tạo nên một khung cảnh thanh bình, lãng mạn và đậm chất Tết truyền thống."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 6",
+        "previewImage": "https://i.ibb.co/V0tJk3Tx/tetnu6.png",
+        "prompt": "Tạo giúp tôi bức ảnh có gương mặt mà tôi cung cấp ở ảnh, giống 100%, cô gái có mái tóc đen dài gợn sóng màu nâu đen, đang đứng và giơ một tay lên che nắng. Cô ấy mặc một chiếc áo dài màu hồng nhạt với hoa văn vàng lấp lánh. Tay còn lại cô cầm một chiếc quạt giấy gấp gọn. Cô trang điểm tone hồng xinh xắn má hồng, cô đeo vòng cổ ngọc trai to, bông tai ngọc trai, mặt cô hướng lên cánh tay che nắng, Phía sau cô là một bức tường gạch điêu khắc chữ Hán truyền thống đá màu đen khắc chữ vàng đồng. Ánh sáng tự nhiên làm nổi bật vẻ tươi tắn, thanh thoát của cô gái."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 7",
+        "previewImage": "https://i.ibb.co/cSVQSbsL/tetnu7.png",
+        "prompt": "Sử dụng hình ảnh của tôi đã cung cấp, chi tiết khuôn mặt 100%, tạo một bức ảnh cô gái trẻ Châu Á với mái tóc đen dài thẳng, trang điểm nhẹ nhàng xinh xắn, đang ngồi trên bậc thang đá. Cô ấy mặc một chiếc áo dài cách tân rộng rải, vải gấm màu hồng nhạt với họa tiết vàng tinh xảo, chất liệu vải lụa mềm mại. Tay cô cầm một chiếc túi xách nhỏ màu trắng đính ngọc trai. Phía sau cô là một bức tường gỗ màu nâu sẫm với các chi tiết chạm khắc truyền thống và nền nhà lát gạch cổ điển màu vàng kem và nâu. Ánh sáng tự nhiên làm nổi bật vẻ dịu dàng, thanh lịch của cô gái và trang phục."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 8",
+        "previewImage": "https://i.ibb.co/v4ydHJRz/tetnu8.png",
+        "prompt": "Sử dụng khuôn mặt từ hình ảnh được cung cấp chuẩn 100%, tạo bức ảnh chân dung cô gái đứng trước bối cảnh là ngôi nhà cổ hơi cũ kỉ, 2 tay chống nhẹ lên thành lang cang của nhà cổ, cô mặc chiếc vây lụa đui cá dài trắng, áo yếm trắng hở nhẹ bụng và phần eo, 2 bên tay của cô có chiếc khăn lụa trắng bắt chéo ở cùm chỏ tay. Cô trang điểm nhẹ nhàng má hồng, tóc dài nhiều thắt 1 bên bím tóc to tạo cảm giác tóc nhiều hơi rối nhẹ, điểm nhấn là cài hoa hồng nhạt trên tai. Cô nhìn nhẹ qua bên phải, không nhìn thẳng ống kính, gương mặt mơ màng, tình cảm. Bối cảnh màu tối nhưng tạo điểm nhấn cô gái sáng."
+    },
+    {
+        "title": "Tết(Nữ)",
+        "description": "Concept 9",
+        "previewImage": "https://i.ibb.co/DHbdpPgY/tetnu9.png",
+        "prompt": "Sử dụng khuôn mặt từ hình ảnh được cung cấp chuẩn 100%, tạo bức ảnh chân dung cô gái đứng trước bối cảnh là ngôi nhà cổ hơi cũ kỉ, 2 tay chống nhẹ lên thành lang cang của nhà cổ, cô mặc chân váy lụa đuôi cá dài trắng, áo yếm trắng, hở nhẹ bụng và phần eo, 2 bên tay của cô có chiếc khăn lụa trắng bắt chéo ở cùm chỏ tay. Cô trang điểm nhẹ nhàng má hồng, tóc dài nhiều thắt 1 bên bím tóc to tạo cảm giác tóc nhiều hơi rối nhẹ, điểm nhấn là cài hoa hồng nhạt trên tai. Hoa tai ngọc trai, Cô nhìn thẳng ống kính, gương mặt mơ màng, tình cảm. Bối cảnh màu tối nhưng tạo điểm nhấn cô gái sáng"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/JjQz4sby/dulichnu1.png",
+        "prompt": "Tạo các bức ảnh, sắc nét, độ phân giải cao, thay đổi phong cách của nhân vật trong các bức ảnh thành mặc đông, áo len, nón len, ngồi sau cửa kính lớn, có hoa cỏ lau, bầu trời xanh. được cung cấp và duy trì tỷ lệ chính xác của các đặc điểm trên khuôn mặt của nhân vật, chẳng hạn như mắt, mũi và miệng, góc từ dưới lên, tạo ra một bức chân dung thực tế tập trung vào khuôn mặt của nhân vật, trang điểm tự nhiên và biểu cảm thân thiện, khuôn mặt nghiêng 45 độ, có làn da mịn màng, sáng với một chút má hồng và hàng mi dài, mỏng quanh mắt, mái tóc dài màu nâu tự nhiên của cô ấy, đôi mắt nhìn vào máy ảnh với đường viền tóc quanh mặt; Những ngón tay dài mảnh mai của Terry cố gắng chặn ánh nắng chiếu vào mắt cô ấy; ánh sáng dịu dàng tạo ra một đường bóng dọc hoặc đường lưới nghệ thuật trên khuôn mặt của cô ấy làm nổi bật vẻ ngoài tinh tế; một bầu không khí thơ mộng và thanh lịch"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/7Jhtw5s0/dulichnu2.png",
+        "prompt": "Giữ nguyên khuôn mặt 100% như hình cung cấp và các chi tiết trên khuôn mặt. Cô gái đứng giữa nắng trời, trang điểm tự nhiên với môi hồng, tóc nâu sẫm gợn sóng buộc thấp đuôi ngựa, một vài lọn tóc buông lơi che hai bên má. Cô mặc áo crop top không tay ren trắng với hàng cúc hình trái tim màu vàng, quần short jean cạp cao màu xanh nhạt với viền ren ba tầng. Phụ kiện gồm 3 chiếc nhẫn, vòng tay vàng sành điệu và một chiếc túi xách nhỏ màu trắng. Phông nền là một quán cà phê gỗ được trang trí bằng hoa giấy trắng, hồng rực rỡ và lá xanh. Bức ảnh mang phong cách thời trang ngoài trời thực tế, với màu sắc ấm áp và sống động."
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/CKWPX8nJ/dulichnu3.png",
+        "prompt": "นี่งับ :สร้างภาพพอร์ตเทรต(ใบหน้าเหมือนต้นฉบับ 100% ห้ามแก้ไข) นั่งชมวิวบนเก้าอี้คาเฟ่วิวเนินเขา อย่างนุ่มนวล หน้าดูเพ้อฝันปนเซ็กซี่ เธอนั่งระเบียง บนชานระเบียงไม้วิวเนินเขาในร้านตบแต่งด้วยดอกเดซี่, ท้องฟ้าสดใสมีเมฆ , เป็นคาเฟ่ดูเก๋และทันสมัย มีโต๊ะเก้าอี้แคมป์ปิ้งสีน้ำตาลบนโต๊ะมีเค้ก1ชิ้น เลอเกอรี่1 ชิ้น ในมือถือแก้วกาแฟพลาสติก, เปลี่ยนท่าทางตามที่คุณอยากให้เป็น ชุดสองชิ้นที่มี \"สไตล์โกธิคหวาน\" \"สไตล์คอเก็ตต์เข้ม สีขาวคอร์เซ็ตท็อป เสื้อคอร์เซ็ตสีขาวหรือเสื้อทรงบัสเทียร์ ท่อนบนที่มีโครงสร้างและพอดีกับคอ ด้านหน้าตรงกลางมีการปักลายครอสครอสสีดำ (คอร์เซตติ้ง) มีสายรัดทำจากริบบิ้นสีดำที่ผูกเป็นโบว์บนไหล่ มีผ้าสีขาว ริบบิ้นยาวที่ห้อยลงมาด้านล่างชั้นบัสเทียร์ กางเกงขาสั้นส่วนล่างสีน้ำตาลเข้มมีรอยย่นและเรียงเป็นชั้นๆ มีลวดลายหลายชั้น เอวแบบเชือกรูด มีริบบิ้นเล็กๆ อยู่ตรงกลางเอวแบบเอวแบบเชือกรูด ลูกไม้และเนคไท: ชายกระโปรงมีขอบลูกไม้ที่โผล่ออกมาและมีเนคไทริบบิ้นเพิ่มเติมที่ด้านข้างของขา เป็นกางเกงขาสั้น ชิ้นด้านล่างที่โดดเด่น แต่งหน้าโทนธรรมชาติให้ความรู้สึกอ่อนหวาน ผิวขาวเนียนใส ปัดแก้มสีพีชอมส้ม ริมฝีปากโทนชมพูส้มอ่อน ดวงตากลมโตมีอายไลเนอร์บาง ๆ เพิ่มความโดดเด่น ผมทรงเดิม เอาดอกไม้ที่หูออก มีปอยผมปิดหน้าเล็กน้อย ความละเอียดสูงสุด 8K ให้ความคมชัดสมจริงระดับมืออาชีพ แสงธรรมชาติจากกลางวัน แสงแดดลอดผ่านใบไม้สร้างเงานุ่ม ๆ บรรยากาศโรแมนติก อบอุ่นมีแสงแดดกระทบผิวและใบหน้า มีลมอ่อนๆ ทำให้ผิวสว่างดูเด่น กลมกลืนกับฉากหลังตามแบบภาพต้นฉบับดูน่ารัก"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 4",
+        "previewImage": "https://i.ibb.co/G32GXJmS/dulichnnu4.png",
+        "prompt": "Tạo một hình ảnh bằng cách sử dụng tệp tham chiếu làm khuôn mặt. Duy trì 100% hình ảnh giống với bản gốc. Không thay đổi các chi tiết chính của khuôn mặt. Diện mạo thời trang: Mặc áo có dây đeo đơn màu trắng kem, sa tanh mềm mại, kết hợp với váy ren màu xanh dương pastel, trang trí hoa ở eo Kiểu tóc: tóc nhiều dài gợn sóng tự nhiên màu nâu sẫm, tóc bay lả lời. Đạo Cụ: Túi Chanel Màu xanh dương Pastel, Mang Bó Hoa Lớn (Hoa Hồng, Camomayle, Hoa Cẩm Tú Cầu Vàng, Hoa Cúc) Tư thế: Một chút quỳ nghiêng. Nhìn về phía ống kính nhẹ nhàng. Cảnh: Cửa hàng hoa tông màu hồng pastel Mặt trước với bó hoa xung quanh cửa hàng Phong cách hình ảnh: Pastel Lãng mạn, Biên tập sang trọng, Bầu không khí u sầu Giấc mơ ngọt ngào Phong cách thời trang lãng mạn sang trọng Thực tế chi tiết sắc nét Tạp chí thời trang Chất lượng"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 5",
+        "previewImage": "https://i.ibb.co/1tTZ13qF/dulichnu5.png",
+        "prompt": "สร้างภาพถ่ายโฟโต้รีลิสติกสไตล์แฟชัน/ลักซ์ชัวรีของรูปที่อัพโหลดหญิงสาวผิวขาว นั่งหันข้างแบบสามส่วน (three-quarter profile) โพสท์ท่าบนเก้าอี้หวายถักริมชายหาดในช่วงพระอาทิตย์ตก (golden hour) — แสงอุ่นสีทองส้มให้ขอบแสง (rim light) บนผมและไหล่ สวมชุดทูพีซถักสีน้ำตาลอ่อน (crop top ลายโครเชต์ขอบหยัก + กระโปรงยาวมีพู่) มีผมดำลอนยาวสะท้อนแสง rim light ต่างหูทองชิ้นใหญ่ สร้อยคอเส้นเล็กและแหวน โต๊ะอาหารทางซ้ายปูผ้าขาว วางจานสีดำ แก้ว และโคมไฟเล็ก พื้นทรายละเอียด ทะเลสงบกับขอบฟ้าเป็นเส้นตรง มีเกาะเล็ก ๆ ไกล ๆ ท้องฟ้าสีทอง-ชมพูมีเมฆกระจาย สะท้อนแสงบนผิวน้ำ โฟกัสคมที่ใบหน้าและลำตัวส่วนบน ใช้ระยะชัดตื้น (shallow depth of field) เบลอฉากหลังเล็กน้อย รายละเอียดสูง (skin pores, hair strands, fabric texture, jewelry reflections), โทนภาพอบอุ่นแบบภาพยนตร์ (filmic warm color grading), เม็ดฟิล์มละเอียดเล็กน้อย และเพิ่มความนุ่มนวลให้แสงเงา"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 6",
+        "previewImage": "https://i.ibb.co/4gSDhXw2/dulichnu6.png",
+        "prompt": "ใช้ใบหน้าของผู้หญิงในภาพนี้ สร้างสรรค์ภาพดังต่อไปนี้: หญิงสาวสวยวัย 26 ปี รูปร่างเพรียวบาง ผิวขาว และมีสีหน้าสงบนิ่งราวกับฝัน เธอมีผมยาวลอนเล็กน้อยสีน้ำตาลช็อกโกแลตปานกลาง ไฮไลท์สีทองที่ขอบตาตามธรรมชาติยามค่ำคืน ผมของเธอพลิ้วไหวไปตามสายลม เคลื่อนไหวอย่างอิสระและมีน้ำหนัก สร้างความรู้สึกโรแมนติกและโปร่งสบาย เธอหันหน้ามองกล้องพร้อมกับหรี่ตาเล็กน้อยราวกับฝันและปากที่เผยอเล็กน้อย เธอแต่งหน้าแบบธรรมชาติและเรียบง่าย ผิวของเธอราวกับฝัน เธอแต่งหน้าแบบธรรมชาติและเรียบง่าย ผิวของเธอใส ริมฝีปากของเธอสีชมพูอ่อนมาก ดวงตาและคิ้วของเธอคมชัดอย่างแนบเนียนโดยไม่ต้องใช้อายไลเนอร์ที่เข้ม เธอสวมเสื้อปาดไหล่สีดำแขนยาวดีไซน์หรูหราเซ็กซี่ ใส่กระโปรงยีนส์ ตามองที่กล้อง ใส่ต่างหูเพชรขนาดเล็ก โดยมีไรผมเป็นแนวรอบใบหน้า ของเธอ ส่องเข้าตาของเธอ แสงอ่อนๆ เทศกาลงานลอยโคมไฟยามค่ำคืน ขนาดใหญ่และเล็กสลับกัน แสงไฟสวยงาม เบลอด้วยระยะชัดตื้น (โบเก้) ถ่ายด้วยกล้อง DSLR หรือกล้องมิเรอร์เลสระดับมืออาชีพ โดยใช้เลนส์ไพรม์ 50 มม. หรือ 85 มม. รูรับแสงกว้าง (f/1.4 - f/2.0) แสงธรรมชาติสร้างแสงริมไลต์ที่เข้มข้นรอบเส้นผมของเธอ ทำให้ผมเปล่งประกาย โทนสีโดยรวมอบอุ่น สีทองอร่าม เหมือนฟิล์ม พร้อมโฟกัสที่นุ่มนวลและให้ความรู้สึกราวกับฝันกลางวัน อัตราส่วนภาพคือ 16:9"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 7",
+        "previewImage": "https://i.ibb.co/ns96c1np/dulichnu7.png",
+        "prompt": "Tạo một hình ảnh từ bản gốc. Giữ khuôn mặt ban đầu 100% chưa chỉnh sửa. Trang điểm rõ ràng tự nhiên. Mặc một chiếc áo len trễ một bên vai màu đen, Cầm một chiếc đèn tròn trang trí trên tay gần mặt. Nghiêng người sang trái và Nhìn vào lồng đèn tròn ánh sáng với đôi mắt dịu dàng. Phông nền là một thành phố Đà Lạt ban đêm. Bầu không khí lãng mạn tông màu ấm áp. Ảnh thực tế. Ống kính 50mm. Ánh sáng dịu."
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 8",
+        "previewImage": "https://i.ibb.co/DHG0fvqz/dulichnu8.png",
+        "prompt": "Sử dụng khuôn mặt hình ảnh được cung cấp 100% giống ảnh. Tạo một bối cảnh cô gái trẻ đứng trong căn phòng phong cách sang trọng nữ tính, màu nâu chocola, cô đứng trước gương tay cầm điện thoại iphone màu cam tự chụp bản thân trước gương, tóc nhiều búi thấp hơi rối nhẹ, điểm thêm vài sợi tóc bay nhẹ lên má, nước da ngâm sang trọng, tay trái cầm điện thoại, tay phải cầm chiếc túi hàng hiệu LV màu kem, cô mặc áo cá tính, dạng sơ mi không tay nhún eo, cổ dạng sơ mi cúc cài, áo màu trắng. Chân váy ngắn ôm vải jean in nổi logo LV phong cách cá tính. Cô đeo bông tai tròn vàng, bối cảnh tối để cô gái là điểm nhấn sáng của bức ảnh"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 9",
+        "previewImage": "https://i.ibb.co/pj2N2Xh4/dulichnu9.png",
+        "prompt": "Sử dụng khuôn mặt hình ảnh được cung cấp 100% giống ảnh. Tạo một bối cảnh cô gái trẻ đứng trong căn phòng phong cách sang trọng nữ tính, màu nâu chocola, cô đứng trước gương tay trái cầm điện thoại iphone màu cam tự chụp bản thân trước gương, tay phải cô cầm chiếc túi Hermes đen sang chảnh, tóc nhiều búi thấp hơi rối nhẹ, điểm thêm vài sợi tóc bay nhẹ lên má, nước da ngâm sang trọng,, cô mặc áo sơ mi tay dài phồng to cổ tim màu trắng vải thôi ren, cô mặc chiếc quần sọt ngắn ren tương thích với vải áo. Cô đeo bông tai tròn vàng, bối cảnh tối để cô gái là điểm nhấn sáng của bức ảnh"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 10",
+        "previewImage": "https://i.ibb.co/cc29m7rS/dulichnu10.png",
+        "prompt": "Sử dụng ảnh của tôi, khuôn mặt giống ảnh gốc 100%, bối cảnh đêm huyền bí, ngồi tại một căn phòng lâu đài sang trọng, có bộ bàn ghế đen, cô gái ngồi bắt chéo chân tựa vào chiếc bàn đen, tay trái chống nhẹ lên bàn, tay phải cầm ly rượu sang trọng, mắt hướng theo tay cầm ly rượu van đỏ. trên bàn có bó hoa lớn, gồm có hoa hồng, hoa mẫu đơn, hoa cẩu tú cầu, tất cả đều màu hồng pastel, điểm thêm vài chiếc lá xanh, được bao bên ngoài màu trắng. Cô gái mặc váy không dây màu đỏ sang trọng, váy ngắn, ôm phần eo mở rộng phần dưới. Ánh đèn làm sáng phần da trắng của cô gái, Mái tóc dài búi thấp rơi vài sợi tóc trên má, trang điểm tự nhiên, đeo khuyên tai vàng. Điểm thêm trên bàn có chậu hoa hồng đò lớn, đồ ăn thức uống sắp xếp gọn gàng như chuẩn bị buổi tiệc sinh nhật."
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 11",
+        "previewImage": "https://i.ibb.co/WWBR4bFZ/dulichnu11.png",
+        "prompt": "Sử dụng ảnh của tôi, khuôn mặt giống ảnh gốc 100%, bối cảnh đêm huyền bí, ngồi tại một căn phòng lâu đài sang trọng, có bộ bàn ghế đen, cô gái ngồi bắt chéo chân tựa vào chiếc bàn đen, tay trái chống nhẹ lên bàn, tay phải cầm ly rượu sang trọng, mắt hướng theo tay cầm ly rượu van đỏ. trên bàn có bó hoa lớn, gồm có hoa hồng, hoa mẫu đơn, hoa cẩu tú cầu, tất cả đều màu hồng pastel, điểm thêm vài chiếc lá xanh, được bao bên ngoài màu trắng. Cô gái mặc váy không dây màu đỏ sang trọng, váy ngắn, ôm phần eo mở rộng phần dưới. Ánh đèn làm sáng phần da trắng của cô gái, Mái tóc dài búi thấp rơi vài sợi tóc trên má, trang điểm tự nhiên, đeo khuyên tai vàng. Điểm thêm trên bàn có chậu hoa hồng đò lớn, đồ ăn thức uống sắp xếp gọn gàng như chuẩn bị buổi tiệc sinh nhật."
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 12",
+        "previewImage": "https://i.ibb.co/TDzHY2r3/dulichnu12.png",
+        "prompt": "Sử dụng ảnh của tôi, khuôn mặt giống ảnh gốc 100%, bối cảnh đêm huyền bí, đứng tại một căn phòng lâu đài sang trọng, có bộ bàn ghế đen, cô gái đứng tựa vào chiếc bàn đen, tay trái chống nhẹ lên bàn, tay phải ôm bó hoa lớn, gồm có hoa hồng, hoa mẫu đơn, hoa cẩu tú cầu, tất cả đều màu hồng pastel, điểm thêm vài chiếc lá xanh, được bao bên ngoài màu trắng. Cô gái mặc váy không dây màu be sang trọng, váy ngắn, ôm phần eo xoè phần dưới. Mái tóc dài búi thấp rơi vài sợi tóc trên má, trang điểm tự nhiên, đeo khuyên tai vàng. Điểm thêm trên bàn có chậu hoa hồng, đồ ăn thức uống sắp xếp gọn gàng như chuẩn bị buổi tiệc sinh nhật."
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 13",
+        "previewImage": "https://i.ibb.co/YBRp3Zr1/dulichnu13.png",
+        "prompt": "สร้างภาพบุคคลให้ใบหน้าเหมือนรูปที่แนบไปให้มากที่สุดห้ามเปลี่ยนแปลง100% หญิงสาวในสตูดิโอแสงขาวสะอาด กำลังโพสท่านั่งเอนตัวลงกับพื้นอย่างสง่างาม เธอสวมชุดเดรสเกาะอกสั้นลายดอกไม้สีพาสเทล โทนชมพูอ่อน ขาว และเขียวอ่อน ผ้าชีฟองบางเบาทำให้ชุดดูพลิ้วไหวและอ่อนหวานแขนสวมถุงมือยาวบางใสสีชมพูอ่อน เพิ่มความ หรูหราและโรแมนติก ผมของเธอถูกรวบเกล้าขึ้นอย่างประณีตปล่อยปอยชี้ฟูเล็กน้อยเพิ่มความเป็น ธรรมชาติ ผมเธอตกแต่งด้วยริบบิ้นและเครื่องประดับสีม่วงอ่อน ใบหน้าแต่งธรรมชาติโชว์งานผิว ขาว แก้มชมพูระเรื่อเพิ่มไฮไลท์โหนกแก้มและหัว ไหล่ มีปอยผมเส้นเล็กๆ หลุดลงมาข้างแก้มอย่างเป็นธรรมชาติ เครื่องหน้าเรียวสวย แต่งหน้าละมุน ด้วยโทนชมพูพีชและดวงตาที่กลมโตโดดเด่น เธอสวมสร้อยคอไข่มุกและดอกไม้เล็กๆ เพิ่มเสน่ห์แบบเจ้าหญิง ตรงหน้าเธอมีกระเช้าดอกไฮเดรนเยียสีชมพูอ่อน วางอยู่ เธอ ใช้มือหนึ่งแตะเบาๆ กับดอกไม้ ทำให้บรรยากาศเต็มไปด้วยความหวานละมุน พื้นหลัง เต็มไปด้วยดอกไฮเดรนเยียเบลอๆสีขาวชมพูม่วง บรรยากาศและโทนภาพ: โทนสีพาสเทล ขาว ชมพู และม่วงอ่อน ให้ความรู้สึกโรแมนติก นุ่มนวล อ่อนหวานเหมือนเทพนิยาย การ จัดแสงสว่างนุ่มละมุน ไร้เงาแข็ง ทำให้ภาพดูเหมือนงานแฟชั่นสตูดิโอระดับสูง แสงเงาสมจริง"
+    },
+    {
+        "title": "Du lịch(Nữ)",
+        "description": "Concept 14",
+        "previewImage": "https://i.ibb.co/NdFrRY83/dulichnu14.png",
+        "prompt": "สร้างภาพเสมือนจริงคงลักษณะใบหน้าต้นฉบับไว้100% A beautiful young woman with fair skin and long straight dark hair, smiling sweetly while standing in an outdoor cafe. She is wearing an oversized short-sleeve denim shirt with brown collar and chest pockets, paired with a high-waisted brown mini skirt. A Louis Vuitton monogram shoulder bag hangs on her shoulder, with sunglasses clipped to her shirt. Accessories include gold hoop earrings, a short gold necklace with a heart pendant, a silver wristwatch, and a simple bracelet. She poses leaning slightly with one hand touching her hair. The background features outdoor rattan chairs, a marble table, hanging ferns, black-and-white striped parasols, and wooden framed glass walls. Bright natural daylight, chic and casual lifestyle fashion photography, highly detailed, realistic."
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/HLtw2twc/picnicnu1.png",
+        "prompt": "Từ bức ảnh khuôn mặt tôi đăng tải, giúp tôi tạo một bức ảnh cô gái đang đứng trước tảng đá lớn gồ ghề, bên trái cô là biển xanh biếc. Cô có làn da trắng hồng rạng rở. Cô trang điểm tone hồng dễ thương xinh xắn, Mái tóc dài nhiều thắt bím một bên vai, bím tóc to dài hơi rối nhẹ, điểm nhẹ phần chun tóc là bông hoa mini màu đỏ. cô đội nón cối vành to gợn sóng, điểm nhấn là hoa sứ trắng cài bên tai. Cô mặc chiếc váy hai dây ngắn, cổ đổ màu hồng nhạt, vải von rũ, ôm phần trên, xoè phần dưới, cô có dây đeo cổ bằng những vỏ sò, cá tính. Cô nhìn thẳng ống kính ánh mắt long lanh mơ hồ. Làn da trắng sáng. Phụ kiện: một chiếc túi len đan hoa tulip nhiều màu sắc, túi to treo trên vai trái cô, có một chiếc móc nhỏ đầy màu sắc trên túi. Cô đeo một chiếc vòng tay đính cườm trên cổ tay trái. Ánh nắng làm làn da cô trắng sáng tự nhiên, tay trái cô vịnh nhẹ nón cối, tay phải cô cầm máy ảnh màu hồng nhạt."
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/q3VLyrQB/picnicnu2.png",
+        "prompt": "Từ bức ảnh khuôn mặt tôi đăng tải, giữ nét khuôn mặt 100%, giúp tôi tạo một bức ảnh cô gái đang đứng ở resort cỗ nhưng sang trọng, làm bằng chất liệu gỗ, nhà ngói, có cây cảnh xung quanh. Cô có làn da trắng hồng rạng rở. Cô trang điểm tone hồng dễ thương xinh xắn, Mái tóc dài nhiều gợn sóng gió thổi bay lã lơi, cô đội nón lá Việt Nam vành viền ren bèo duyên dáng, nón có dây đeo cổ bằng ren, thắt nơ lõng lẽo ở cổ. điểm nhấn là hoa sứ trắng cài bên tai. Cô mặc set ba món, gồm áo sơ mi vải thô xốp nhăn rộng rải bên ngoài màu vàng pastel sáng, bên trong là áo ống không dây màu trắng, quần sọt bí rộng màu vàng pastel cùng tone với áo sơ mi. cô có dây đeo cổ là máy ảnh màu xanh pastel, cá tính. Cô nhìn thẳng ống kính ánh mắt long lanh xinh đẹp. tay trái cô vịnh nhẹ nón, tay phải cô để trong túi quần dễ thương"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/RkjqsYP6/picnicnu3.png",
+        "prompt": "Từ hình ảnh khuôn mặt của tôi, hãy tạo giúp tôi bức ảnh Cô gái trang điểm dễ thương, má hồng xinh xắn. mái tóc dày nhiều gợn sóng gió thổi bay tự nhiên. Phụ kiện cô mang trên tóc là chiếc buồm đan len hoa nhiều màu xinh xắn. Cô mặc trang phục body 2 dây áo liền quần ngắn, màu hồng pastel ôm người nhẹ, viền bộ đồ là vải ren dúng bèo màu trắng tạo điểm nhấn cho trang phục. Cô ngồi trên thảm ren gần bờ hồ xanh biếc, trên thảm có túi xách đan len sợi kiểu hoa nhiều màu dễ thương. Chân cô mang tất ren dúng bèo. trên thảm còn có giỏ trái cây, có vài bông hoa cẩm tú cầu nhiều màu, có một chiếc máy ảnh màu xanh pastel trên thảm. Cô ngồi nhìn thẳng ống kính mơ màng khung cảnh nên thơ"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 4",
+        "previewImage": "https://i.ibb.co/dwmrPLhs/picnicnu4.png",
+        "prompt": "Tạo hình ảnh của một phụ nữ trẻ, với khuôn mặt giống hình ảnh gốc 100%, mái tóc dài màu nâu sẫm trà sữa, những lọn tóc dài và dày với khối lượng, được trang trí bằng băng đô màu xanh pastel, ngồi trên tư thế gấp với một sợi chỉ trái tại thảm vải dạng bảng màu xanh pastel, dưới gốc cây chanh, lớp trang điểm của cô ấy có đặc điểm là má hồng đào và son môi mỏng màu đỏ cam, phù hợp với màu da tự nhiên của cô ấy, cô ấy mặc một chiếc váy ngực màu xanh pastel thắt nơ ở eo sau, với những mánh lới quảng cáo trông dễ thương và gợi cảm và mặc một chiếc váy chữ A dài đến đầu gối màu trắng, cả hai tay cầm cuốn sách lên và đặt dưới ngực. Trên chiếu là các vật dụng như bộ lớp bánh ngọt trà chiều, bộ ấm trà, bình nước phù hợp với bầu không khí của bức tranh, 4-5 quả chanh, vở kịch và bó hoa hồng vàng trắng, nền cây chanh và ngoại thất hiên nhà vườn cổ điển màu trắng kem. Khung cảnh được chiếu sáng bởi ánh sáng mờ, bóng nhẹ, tạo nên một bầu không khí gợi nhớ về quá khứ và hấp dẫn. Bức tranh này là một kiệt tác cực kỳ chân thực, có độ chi tiết cao, được quay với ánh sáng studio chuyên nghiệp và chất lượng điện ảnh. Độ phân giải 8K "
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 5",
+        "previewImage": "https://i.ibb.co/HfvVDJGq/picnicnu5.png",
+        "prompt": "Từ hình ảnh khuôn mặt của tôi, hãy tạo giúp tôi bức ảnh cô gái đứng trước vách gỗ dây hoa hồng trắng và hồng xen lẫn nhau, có lá xanh tươi nổi bật giàn hoa. Cô gái trang điểm dễ thương, mái tóc dày nhiều gợn sóng gió thổi bay tự nhiên. Phụ kiện cô mang trên tóc là chiếc khăn ren hoa văn. Cô mặc trang phục váy ngắn 2 dây bảng to ôm phần trên xoè to phần dưới, tay cô cầm túi xách Gucci trắng hoa văn GC nhiều màu. Bối cảnh sáng làm cô trắng sáng nổi bật."
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 6",
+        "previewImage": "https://i.ibb.co/Y7gFxTf6/picnicnu6.png",
+        "prompt": "Từ hình ảnh khuôn mặt của tôi, hãy tạo giúp tôi bức ảnh cô gái đứng trước vách gỗ có nhiều hoa cúc trắng khổ lớn, khổ nhỏ nhiều kích cở xen lẫn nhau. Cô gái trang điểm dễ thương, má hồng xinh xắn. mái tóc dày nhiều gợn sóng gió thổi bay tự nhiên. Phụ kiện cô mang trên tóc là chiếc khăn ren hoa nhí. Cô mặc áo ren màu kem dây bản to croptop, chân váy quần bí màu đen, chất vải tafta cứng tạo cho quần xoè phồng, tay cô cầm túi xách chanel hồng pastel sang trọng. Bối cảnh sáng làm cô trắng sáng nổi bật."
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 7",
+        "previewImage": "https://i.ibb.co/spwp9qy5/picnicnu7.png",
+        "prompt": "Using my picture create an Elegant portrait of a beautiful young woman with long dark with curly hair, soft natural makeup, delicate lace headscarf tied under her chin, wearing a light cream cute sexy dress She leans gracefully on a white surface, surrounded by fresh red strawberry, he hold some strawberry with her hands, dreamy expression, soft blush on her cheeks, ethereal and romantic aesthetic, bright studio lighting, minimalistic white blurry background"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 8",
+        "previewImage": "https://i.ibb.co/93rRNDT3/picnicnu8.png",
+        "prompt": "สร้างภาพบุคคลจากต้นฉบับ ให้หน้าเหมือนภาพแนบ 100% ในสตูดิโอ สวมชุดปาดไหล่สีขาว มีระบายตรงอก ดู น่ารัก สดใส แต่งหน้าโทนสีชมพู ทรงผมมัด ใหญ่ๆเป็นมวย ต่ำไว้ด้านข้าง มีดอกโบตั้นสีชมพู1ดอกติดตรงผมที่มัดไว้ฉากพื้นหลังครีม แบบนุ่มนวลเธอนั่งอยู่ด้านหลังโต๊ะสีขาว มีดอกโบตั้นสีชมพูหลายดอกวางบนโต๊ะ มือเธอข้างหนึ่งถือดอกโบตั้นสีชมพูอยู่หนึ่งดอก ถ่ายแบบระยะใกล้ ครึ่งตัว ผิวสัมผัสคมชัดแสงแดดส่องมาที่หน้าและผิวของเธอ กล้อง Canon EOS R5 เลนส์ 85 มม. f/1.4, รูรับแสง f/1.4"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 9",
+        "previewImage": "https://i.ibb.co/DHsF8S0n/picnicnu9.png",
+        "prompt": "Sử dụng chi tiết khuôn mặt trong ảnh được cung cấp, giống 100%. Tạo bức ảnh chân dung có bối cảnh là tiệm bán hoa, tone ngôi nhà màu xanh min, ngôi nhà có cửa sổ kính, cửa chính cũng bằng kính, trang trí đầy đủ loại hoa bên trong tiệm, cô gái đứng trước cửa hàng hoa, cô mặc váy bí babydoll xoè 2 dây ngắn dễ thương màu hồng phấn, tóc dài nhiều, thắt 1 bên bím tóc to, gió bay nhẹ phần mái tóc đáng yêu, có mang túi xách màu trắng in hình hellokitty quai chéo., cô trang điểm nhẹ nhàng tone hồng, má hồng tự nhiên, cô cười mĩm nhẹ. tay cô cầm 1 nhành hoa cẩm tú cầu xanh nhạt. Khung cảnh nên thơ màu sắc dễ thương"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 10",
+        "previewImage": "https://i.ibb.co/GQXKYypG/picnicnu10.png",
+        "prompt": "Sử dụng chi tiết khuôn mặt trong ảnh được cung cấp, giống 100%. Tạo bức ảnh có bối cảnh là tiệm bán hoa, tone ngôi nhà màu xanh min, ngôi nhà có cửa sổ kính, cửa chính cũng bằng kính, trang trí đầy đủ loại hoa bên trong tiệm, cô gái đứng trước cửa hàng hoa, cô mặc váy babydoll ngắn dễ thương màu blue, tóc suông dài gió bay nhẹ, đầu đội khăn ren màu kem hoa nhí, có mang túi xách hình hellokitty hồng ngọt ngào. Cô nhìn thẳng ống kính cười nhẹ, có làn da trắng hồng, cô trang điểm tone hồng xinh xắn. Chân cô đi hài búp bê đen, mang vớ ren cao cổ có chi tiết nơ hồng trên cổ vớ, cô trang điểm nhẹ nhàng tone hồng, má hồng tự nhiên, tay cô cầm 1 nhành hoa cẩm tú cầu xanh nhạt. Khung cảnh nên thơ màu sắc dễ thương."
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 11",
+        "previewImage": "https://i.ibb.co/4RdXZDpC/picnicnu11.png",
+        "prompt": "ใช้ภาพของฉันสร้างภาพเหมือน ที่สง่างามหญิงสาว ที่สวยเข้มยาวผมมัดมวยต่ำมีปรอยผมข้างหน้าแต่งหน้าเป็นธรรมชาติสวมต่างหูสีทองสวมชุดเบรเซอร์สีเบจเสื้อข้างในสายเดี่ยวสีขาวกางเกงขาสั้นเข้าชุดเธอนั่งอย่างสง่างามบนที่ผ้าปูสีขาวล้อมรอบด้วยดอกทานตะวันเค้าถือดอกทานตะวันบางส่วนด้วยมือของเธอสีหน้าชวนฝันอายุนุ่มบุญแก้มของเธอสุนทรียภาพและโรแมนติกแสงสตูดิโอสว่าง พื้นหลังเป็น พื้นสนามหญ้าละมุนภาพต้องเหมือน ต้นฉบับ"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 12",
+        "previewImage": "https://i.ibb.co/PvjHKm5W/picnicnu12.png",
+        "prompt": "สร้างภาพพอร์ตเทรตสมจริง (ใบหน้าเหมือนแบบ100% ห้ามแก้ไข) ใส่เสื้อตามที่แนบไป ใส่กระโปรงบอลลูนสั้นสีขาว รองเท้าแมรี่เจนสีดำ มีผ้าโพกหัวลูกไม้สีขาว ถุงเท้าลูกไม้ข้อสั้นสีขาว ใบหน้าหันข้างไม่มองกล้อง นั่งอยู่ในเสื่อปิกนิกผื่นใหญ่สีขาว มีกองดอกไม้ที่เด็ดมาใหม่ๆวางอยู่และมีตะกร้าผลไม้วางอยู่ด้วย รอบๆเป็นทุ่งหญ้าสีเขียวที่มีดอกไม้ล้อมรอบ และเห็นวิวภูเขา การแต่งหน้า: แต่งหน้าโทนธรรมชาติให้ความรู้สึกอ่อนหวาน ผิวขาวเนียนใส ปัดแก้มสีพีชอมส้ม ริมฝีปากโทนชมพูส้มอ่อน ปลายคางไม่ต้องแหลม ทรงผมยาวมีปอยผมข้างหน้าเล็กน้อย ปลายผมมาข้างหน้าข้างนึง คงใบหน้าต้นแบบ 100% รายละเอียดกล้อง: ใช้กล้อง Canon EOS R5 เลนส์ RF 85mm f/1.2L ฟูลเฟรม รูรับแสง f/1.4 ความละเอียดสูงสุด 8K ให้ความคมชัดสมจริงระดับมืออาชีพ แสง: แสงธรรมชาติจากกลางวัน นิดๆ ดูอบอุ่น บรรยากาศโรแมนติก ดูโรแมนติก และใบหน้า มีลมอ่อนๆ ทำให้ผิวสว่างดูเด่น แสงเหมือนถ่ายในสตูดิโอภาพมุมใกล้แบบเห็นพอดีตัวกับเฟลม กลมกลืนกับฉากหลังตามแบบภาพต้นฉบับ"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 13",
+        "previewImage": "https://i.ibb.co/svbt6F8S/picnicnu13.png",
+        "prompt": "คำสั่งรูปที่ 6:สร้างภาพพอร์ตเทรตสมจริงของหญิงสาว(ใบหน้าเหมือนต้นฉบับ 100% ห้ามแก้ไข) นั่งอย่างอ่อนหวานบนผ้าปูปิกนิกสีขาวลายลูกไม้ ท่ามกลางทุ่งดอกเดซี่ มือกอดดอกทิวลิป การแต่งกาย: สวมชุดลูกไม้สีขาวสองชิ้น ตัวเสื้อเป็นแบบเกาะอกผูกโบว์ด้านหน้า กระโปรงเอวสูงบานเป็นชั้นระบายสวยงาม ศีรษะคลุมด้วยผ้าลูกไม้พร้อมดอกเดซี่ประดับ สร้างสไตล์โรแมนติกแบบชนบท ข้างกายมีตะกร้าหวายใส่ดอกเดซี่สีขาววางอยู่ มีกล้องฟิลม์วางอยู่ การแต่งหน้า: แต่งหน้าโทนธรรมชาติให้ความรู้สึกอ่อนหวาน ผิวขาวเนียนใส ปัดแก้มสีพีชอมส้ม ริมฝีปากโทนชมพูส้มอ่อน ดวงตากลมโตมีอายไลเนอร์บาง ๆ เพิ่มความโดดเด่น ทรงผม: ผมสีน้ำตาลยาว ดัดลอนอ่อน ๆ แสกกลาง คลุมศีรษะด้วยผ้าลูกไม้ติดดอกไม้เล็ก ๆ ข้างขมับ รายละเอียดกล้อง: ใช้กล้อง Canon EOS R5 เลนส์ RF 85mm f/1.2L ฟูลเฟรม รูรับแสง f/1.4 ความละเอียดสูงสุด 8K ให้ความคมชัดสมจริงระดับมืออาชีพ แสง: แสงธรรมชาติจากกลางวัน แสงแดดลอดผ่านใบไม้สร้างเงานุ่ม ๆ บรรยากาศโรแมนติก อบอุ่น กลมกลืนกับฉากหลังสีเขียวธรรมชาติ ตามแบบภาพต้นฉบับ"
+    },
+    {
+        "title": "Picnic(Nữ)",
+        "description": "Concept 14",
+        "previewImage": "https://i.ibb.co/1txb1mGb/picnicnu14.png",
+        "prompt": "Một phụ nữ Đông Á xinh đẹp với mái tóc đen dài, trang điểm nhẹ nhàng với son môi đỏ và má hồng nhạt, mặc áo trắng trễ vai. Cô ấy có ánh mắt dịu dàng, hơi hướng xuống và nụ cười nhẹ nhàng. Nền ảnh được làm mờ bởi ánh sáng bokeh ấm áp. Vẻ đẹp mơ màng, lãng mạn, lấy nét nhẹ nhàng, xung quanh là bong bóng phủ khắp phòng, cô mặc chiếc áo sơ mi trắng trễ vai, tay cầm sách và đang nằm trên giường, tạo ảnh chân dung ấn tượng như đang chụp ở studio"
+    },
+    {
+        "title": "Đi chùa(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/3YQjjYD6/Chuanu1.png",
+        "prompt": "Giúp tôi tạo bức ảnh chân dung cô gái xinh xắn, giữ nguyên gương mặt của tôi 100%. Chân dung cô gái trẻ, với mái tóc đen dài nhiều, được bím tóc to rối nhẹ 1 bên, có gắn chi tiết nơ màu trắng nhỏ. Cô mặc áo dài rộng, tay lỡ rộng, màu xanh pastel vải gấm quần trắng, bối cảnh là bờ hồ đá với dòng nước xanh biếc, có nhiều cành trúc rũ lá la đà, cô ngồi trên bật thềm của hồ ( tạo hồ có nhiều bật thềm), gác trên chân là bó hoa sen tươi thắm, tay cô cầm 1 bông hoa sen thân dài, xung quanh có nhiều bướm màu sắc lắp lánh. cô trang điểm nhẹ nhàng với má hồng môi mộng, ánh mắt trìu mến dịu dàng nhìn vào ống kính. Cô có làn da trắng sáng. Ánh nắng tự nhiên làm nổi bật vẻ đẹp tinh khiết, dịu dàng và mang đậm nét truyền thống của cô gái trong khung cảnh thanh bình."
+    },
+    {
+        "title": "Đi chùa(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/Wv6CbMHd/Chuanu2.png",
+        "prompt": "Sử dụng khuôn mặt tôi cung cấp, tạo giúp tôi bức ảnh chân dung một phụ nữ trẻ châu Á xinh đẹp trong bộ áo dài cách tân rộng rải, tay lỡ rộng màu xanh pastel gấm, quần có màu hồng xanh hơn. Cô ấy có mái tóc nâu đen dài nhiều, gợn sóng tự nhiên, điểm xuyết một phụ kiện nhỏ tinh tế, và đeo một chuỗi ngọc trai dài. Cô makeup tone hồng với má hồng đậm, làn da trắng sáng, ánh nắng tự nhiên len lỏi. Người phụ nữ đang tựa nhẹ vào lan can gỗ của một cây cầu trong hồ khuôn viên kiến trúc cổ. tay cô ấy cầm chiếc quạt giấy nhỏ hình bán nguyệt màu vàng nhạt. Phía sau là khung cảnh cây xanh mờ ảo và một chiếc đèn lồng đỏ treo cao, tạo nên không khí truyền thống và thanh bình. Chụp cận mặt chân dung giúp tôi."
+    },
+    {
+        "title": "Đi chùa(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/vxC8sTcG/Chuanu3.png",
+        "prompt": "Sử dụng hình ảnh tôi cung cấp, giữ cho giống nét mặt 100%, giúp tôi tạo một bức ảnh chân dung cô gái có bối cảnh thơ mộng, là một cô gái đứng trên cầu gỗ đen chạm khắc tinh sảo, có lan can to, tay cô cầm cành đào khô, tay cô vịnh nhẹ lên lan can cầu, cô mặc trang phục áo dài truyền thống rộng, màu tím cam pastel vải gấm, hoa văn in nhỏ, áo rộng rải tay áo rộng lỡ. Cô trang điểm tone hồng má hồng xinh xắn nhẹ nhàng quyến rũ, tóc cô nhiều dài, gợn sóng xinh đẹp tự nhiên rối nhẹ, bông tai hoa đào mini, làn da trắng sáng bắt ánh nắng vàng, khung cảnh sau cô là những cây đào hồng rực rở, nhưng có vẻ hơi mờ dần để cô gái trở thành tâm điểm chính. Cô nhìn nhẹ sang ống kính, vẻ mặt mơ mộng. Góc máy ảnh từ dưới chân cầu chụp lên cô gái."
+    },
+    {
+        "title": "Mùa thu(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/8gLNPF2C/muathunu1.png",
+        "prompt": "Close-up of a very realistic portrait of a young woman (the face is the same as the photo uploaded). She wears a long white single strap dress. She closes her eyes as she brings a pastel bouquet closer to her face, showing peace and happiness. The background of a wildflower field with a soft shade. "
+    },
+    {
+        "title": "Mùa thu(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/h1w5WkCY/muathunu2.png",
+        "prompt": "Using my picture and change into a fashion shoot photo she uses a white tulle dress gadinh with off-shoulder cuts and transparent puff sleeves that dangle gracefully, hair in long outlets and curly wearing large white ribbon accessories on the back of the head with korean make up look. pose one hand, one hand again reaching for the butterfly while looking at it. background flower garden night shades full of aesthetic fireflies. Don't change the face of the original image. "
+    },
+    {
+        "title": "Mùa thu(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/4nBNjxL9/muathunu3.png",
+        "prompt": "Sử dụng hình ảnh khuôn mặt tôi cung cấp từ ảnh lấy rỏ mặt 100%c tạo bức chân dung cô gái với mái tóc nâu đen dài nhiều, cô thắt bím tóc một bên vai, phồng to rối nhẹ. Cô ấy trang điểm tone hồng má hồng xinh xắn. Làn da cô trắng tinh. Cô mặc một chiếc áo dài truyền thống màu hồng phấn vải gấm rộng rải, tay rộng, Cô đang cầm một bó hoa Cát Tường tím pastel và trắng được gói bằng giấy báo màu nâu. Cô nhẹ nhìn nghiêng trầm tư thư giản nhẹ nhàng. Cô đứng cạnh một xe ba gác lề đường bán hoa rực rỡ sắc màu, xe chất đầy hoa tươi, với rất nhiều loại hoa: hoa hướng dương, hoa cẩm tú cầu hồng và trắng, và hoa sen cùng các loại hoa khô màu xanh, tím xếp chồng lộn xộn các loài hoa nhưng vẫn hài hoà màu sắc, len lõi phía xa vẫn có những chiếc xe đạp chở đầy hoa tươi bán bên lề đường, nhưng hình ảnh lu mờ dần. Hình ảnh toát lên vẻ đẹp ngọt ngào, thời trang và tươi tắn. Bối cảnh ngoài trời, nắng sáng rọi người cô sáng lên, nên thơ."
+    },
+    {
+        "title": "Hoa sen(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/99VCnpf3/hoasennu1.png",
+        "prompt": "Giữ nguyên khuôn mặt và biểu cảm tự nhiên của cô gái trong ảnh đã tải lên, không thay đổi bất kỳ đặc điểm nào. Tạo bức chân dung nghệ thuật ngoài trời, mang đậm nét duyên dáng của người con gái Việt Nam: Trang phục: Cô gái mặc áo dài trắng truyền thống, dáng ôm nhẹ, tôn lên vẻ mềm mại, tinh khôi và thanh lịch. Tạo dáng/Biểu cảm: Cô ngồi trên chiếc cầu gỗ giữa hồ sen, một tay cầm lá sen lớn giơ cao, tay còn lại đặt nhẹ bên cạnh bó hoa sen trắng, nụ cười tươi rạng rỡ, gương mặt toát lên vẻ hồn nhiên và rạng ngời. Phụ kiện: Bó hoa sen trắng đặt bên cạnh, những cánh hoa bung nở xen lẫn lá xanh tạo điểm nhấn thanh thoát. Bối cảnh: Không gian hồ sen xanh mướt, lá sen trải dài khắp mặt nước, ánh sáng tự nhiên nhẹ dịu buổi sáng làm nổi bật tà áo dài trắng. Phong cách: Trong sáng, truyền thống, tươi trẻ và đầy sức sống, gợi nét đẹp tinh khôi, duyên dáng của người thiếu nữ Việt."
+    },
+    {
+        "title": "Mùa đông(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/B5tVMQ8x/muadongnu1.png",
+        "prompt": "Create a vertical frame sized 2160x3840 pixels (4K quality), divided into three equally sized horizontal sections placed together. Main character: Based on the reference face, hairstyle, and body — a young figure with an expression of sadness and nostalgia, deep eyes radiating loneliness. Outfit: A loose winter puffer set with wide-leg pants and a black scarf. Overall atmosphere: Covered in white snow, using a cold color palette that evokes melancholy and solitude. Image 1 (portrait): The character holds a transparent umbrella, slightly turning their head back while looking directly into the frame. Their expression is sorrowful, with soulful eyes. The background is softly blurred with falling snow. Image 2 (full body): The character, still holding the umbrella, stands alone in a vast snowy field, walking slowly while gazing up at the sky. The camera angle is from above, as if the character is raising a hand to catch snowflakes. In the distance, a few bare, leafless trees stand against the whiteness, emphasizing isolation and smallness within nature’s vastness. Image 3 (close-up): A zoomed-in shot of the eyes, capturing a distant, sorrowful gaze that conveys loneliness and quiet yearning."
+    },
+    {
+        "title": "Mùa đông(Nữ)",
+        "description": "Concept 2",
+        "previewImage": "https://i.ibb.co/VXLYnJy/muadongnu2.png",
+        "prompt": "A cinematic portrait of a person standing in falling snow, wearing a dark oversized wool coat dusted with snowflakes. The atmosphere is moody and ethereal, with soft golden backlight illuminating the snow particles in the air. The person stands confidently with hands in pockets, slightly tilting their head upward, giving a calm and thoughtful pose. Shallow depth of field with blurred snow in the foreground, high-detail texture on the coat, captured with a professional DSLR lens in soft natural light."
+    },
+    {
+        "title": "Mùa đông(Nữ)",
+        "description": "Concept 3",
+        "previewImage": "https://i.ibb.co/CpVVtGy3/muadongnu3.png",
+        "prompt": "Sử dụng khuôn mặt chuẩn 100% từ ảnh đã cung cấp, tạo bối cảnh của bức ảnh là một Không gian: Tạo cảm giác thân mật, ấm cúng và ngọt ngào. • Phông nền (Kệ sách/Kệ trang trí): Phía sau người mẫu là một kệ gỗ tối màu với nhiều tầng. Kệ này chứa đầy sách và đặc biệt là rất nhiều gấu bông nhỏ. • Ánh sáng: Ánh sáng vàng ấm (warm light), chiếu rọi từ trên xuống và từ các nguồn sáng ẩn, tạo bóng và làm nổi bật màu gỗ, gấu bông, cùng với người mẫu. • Trang trí lễ hội: Có những chi tiết màu đỏ (có thể là khăn, ruy băng hoặc vật trang trí) ở phía trên kệ, gợi ý cho không khí Giáng sinh Cô gái mang phong cách dễ thương và tinh nghịch: • Ngoại hình: Cô gái có mái tóc đen dài uốn sóng nhẹ nhàng xoã 1 bên vai,để lộ gương mặt trang điểm nhẹ nhàng. Cô đang nghiêng đầu và nhìn sang bên phải với biểu cảm nhẹ nhàng, có phần mơ màng. • Trang phục: • Áo: Một chiếc áo trắng kem (hoặc trắng ngà) oversized (quá khổ) dệt kim hoặc chất liệu mềm mại, được kéo trễ vai (off-shoulder) để lộ một bên vai, tạo vẻ gợi cảm nhẹ nhàng. Cổ tay áo có chi tiết xù lông hoặc tay bồng lớn. • Phần dưới: Cô mặc quần ngắn hoặc váy ngắn, kết hợp với bốt/tất dài màu trắng (có thể là bốt lông hoặc bọc chân ấm áp). • Tư thế: Người mẫu ngồi trên một băng ghế hoặc bục, thân hình nghiêng về phía trước, ôm một chú gấu bông nhỏ và ngồi cạnh một chú gấu bông khổng lồ. • Gấu bông (Teddy Bears): • Gấu khổng lồ: Một chú gấu bông khổng lồ màu be/nâu nhạt, chiếm phần lớn bố cục, ngồi ngay cạnh người mẫu. Người mẫu đang tựa vào hoặc ngồi cạnh chú gấu này. • Gấu nhỏ (Phụ kiện): Người mẫu đang ôm một chú gấu bông nhỏ hơn trên đùi. • Gấu trang trí: Toàn bộ kệ phía sau chứa rất nhiều gấu bông nhỏ có kích thước đồng đều, có lẽ là gấu lưu niệm với huy hiệu tròn trên ngực. • Sách: Có nhiều sách được xếp trên kệ, xen kẽ với gấu bông, tạo chiều sâu và cảm giác của một không gian thư giãn."
+    },
+    {
+        "title": "Hoa đào(Nữ)",
+        "description": "Concept 1",
+        "previewImage": "https://i.ibb.co/f5r62JZ/hoadaonu1.png",
+        "prompt": "Light and shadow photography, this photograph features a young woman with fair skin and long dark hair, partially obscured by delicate, white cherry blossoms. Her expression is serene, with a slight upward gaze, as if lost in thought .The lighting is soft and diffused , casting gentle shadows on her face and creating a dreamy ,ethereal atmosphere. She wears a white lace-trimmed top , subtly visible through the cherry blossoms . the background is blurred, emphasizing the depth of field and focusing on the woman and the flowers. The Image has a soft, almost painterly quality, with a gentle blue tint that enhances the tranquil mood. The overall composition is delicate and evocative , capturing a moment of quiet introspection"
+    },
+  {
+    "title": "Giáng sinh(Nữ)",
+    "description": "Concept 1",
+    "previewImage": "https://i.ibb.co/bjMcCDD7/giansinh.png",
+    "prompt": "Sử dụng khuôn mặt từ hình ảnh tôi cung cấp, giống đến 100%, tạo bức ảnh phụ nữ trẻ xinh đẹp, tóc đen dài gợn sóng, gương mặt thanh tú, biểu cảm nhẹ nhàng, mơ màng. Trang điểm tone hồng má hồng đậm\n• Trang phục:\n• Bộ đồ áo len không dây màu trắng bằng lông xù: áo quây crop top và váy ngắn cũng bằng lông.\n• Mũ lông xù trắng lớn.\n• Bốt lông xù trắng cao đến bắp chân.\n• áo khoát ngoài cũng được trang trí bằng lông xù trắng lớn. Rớt vai\n• Không gian: Bối cảnh trong nhà, được trang trí như một xứ sở thần tiên mùa đông/Giáng sinh.\n• Nền:\n• Bên dưới chân là lớp gòn nhân tạo dày đặc.\n• Hai bên coo gái có 2 cây thông Noel lớn được trang trí với quả châu vàng, đỏ, thông khô và tuyết.\n• Có những hộp quà được gói và một chú tuần lộc nhồi bông nhỏ dễ thương ở phía dưới bên phải.\n• Phía sau là một lò sưởi giả màu trắng, được trang trí với vòng hoa Giáng sinh và nến.\n• Phía trên lò sưởi là một cửa sổ lớn, có vẻ như bên ngoài đang có tuyết rơi.\n3. Ánh sáng và Hiệu ứng (Lighting & Effects):\n• Ánh sáng: Mềm mại, khuếch tán, ánh sáng tự nhiên từ cửa sổ kết hợp với ánh sáng ấm áp từ đèn trang trí.\n• Hiệu ứng: Hiệu ứng tuyết rơi nhẹ nhàng trong không khí, tạo cảm giác huyền ảo.\n4. Phong cách (Style):\n• Chụp ảnh thời trang mang phong cách giả tưởng (fantasy-inspired fashion photoshoot).\n• Màu sắc tươi sáng, sạch sẽ (clean and bright aesthetic).\n• Chi tiết siêu thực (hyper-realistic details).\n• Tổng thể mơ màng, mê hoặc (dreamy and enchanting)."
+  },
+  {
+    "title": "Đi biển(Nam)",
+    "description": "Lãng tử trên biển",
+    "previewImage": "https://i.ibb.co/dsyLz9qM/dibienam.png",
+    "prompt": "A hyper-realistic cinematic portrait of a stylish young man lounging casually on a luxury yacht under the radiant summer sun. He wears a sheer short-sleeve white shirt left unbuttoned, paired with wide-leg white trousers. His pose is relaxed, leaning back comfortably with one arm stretched behind resting on the yacht railing, while the other hand rests near his waist. He accessorizes with silver rings, a bracelet, and small round black sunglasses, adding a fashionable and chic vibe. Behind him, the deep blue sea sparkles with distant rocky shores under a clear sky, creating a luxurious Mediterranean atmosphere. Style: photorealistic, cinematic, ultra-detailed, 8K quality, vertical frame 9:16."
+  },
+  {
+    "title": "Đi biển(Nữ)",
+    "description": "Hướng nội nhưng thích đi biển",
+    "previewImage": "https://i.ibb.co/GfJSX2Ps/dibien.png",
+    "prompt": "Biến hình ảnh này thành ảnh chân dung 8K chân thực của một cô gái trẻ. Tóc cô ấy đen dài nhiều được thả bay nhẹ nhàng, tai cài 1 bông hoa sứ trắng, và mặc một chiếc váy lụa cổ đổ màu xanh pastel dài hoạ tiết hoa nhí. Cô trang điểm tone hồng xinh đẹp, Cô ấy ngồi ở mũi một chiếc thuyền cao tốc, mặt nhìn sang trái nhẹ nhàng tình cảm. Chiếc thuyền đang lướt qua làn nước ngọc lam rực rỡ, và ở phía sau, một vách đá xanh tươi, ấn tượng, nhô lên từ mặt biển dưới bầu trời đầy mây. Giữ nguyên khuôn mặt"
+  },
+  {
+    "title": "Ảnh cưới concept 4",
+    "description": "Cô dâu bước xuống xe",
+    "previewImage": "https://i.ibb.co/5W2cfh2z/anhcuoi4.png",
+    "prompt": "Keep the expression and face from the uploaded sample photo. A romantic bridal portrait of a bride stepping gracefully out of a black vintage car, outdoors on a bright day surrounded by lush greenery and soft natural light. Outfit: The bride wears a voluminous white lace ball gown with intricate floral embroidery, a structured bodice with wide shoulder straps, and a full, flowing skirt. She holds the edge of the car door lightly while her other hand is gently held by someone outside. Makeup: Fresh youthful look with dewy, porcelain-smooth skin, a light flush of pink on the cheeks, glossy pink lips, and soft natural eye makeup with thin eyeliner and fluttery lashes. Her brows are softly shaped to enhance her innocent, radiant charm, giving the impression of an 18–20-year-old bride. Hairstyle: Sleek black hair neatly tied in a low bun with a clean center part, a delicate sheer veil tucked into the bun and draping softly over her shoulders and back. Pose: The bride gracefully steps out of the car with a gentle smile, looking slightly downwards while reaching out to hold a hand for support, exuding elegance, youth, and poise. Lighting & Colors: Soft natural daylight enhances the white gown and her glowing complexion. The overall palette—white, cream, black, and green—creates a fresh, romantic, and timeless atmosphere."
+  },
+  {
+    "title": "Phụ nữ đẹp",
+    "description": "Phong cách truyền thống ",
+    "previewImage": "https://i.ibb.co/ns93YnJG/songao1.png",
+    "prompt": "Tạo giúp tôi bức ảnh có gương mặt mà tôi cung cấp ở ảnh, giống 100%. cô gái mái tóc dài nhiều gợn sóng gió thổi tự nhiên, cài hoa sứ trắng bên tai, rơi vài sợi tóc tự nhiên, cô trang điểm tone hồng xinh xắn, làm da trắng sáng là điểm nhấn bức ảnh, cô đang đứng dưới một mái hiên nhà cổ kính màu đen huyền bí. Cô ấy mặc một chiếc áo dài truyền thống thân rộng rải và tay áo loe màu kem vải ren cách tân không kém phần sang trọng. Một tay cô nhẹ nhàng chạm vào cột khắc chữ Hán vàng, tay kia cầm hai cành hoa sen hồng va trắng rực rỡ. Phía sau cô là không gian kiến trúc gỗ truyền thống với những cột và dầm gỗ, lồng đèn cổ tạo nên vẻ đẹp thanh lịch, cổ điển và đậm chất văn hóa."
+  },
+  {
+    "title": "Phụ nữ đẹp 1",
+    "description": "Phong cách sang trọng",
+    "previewImage": "https://i.ibb.co/JFKVch4J/songao2.png",
+    "prompt": "A young bride with a tall and slender figure stands in an elegant classical interior with vintage wooden doors and ornate patterned tile floor. Keep the same face from the uploaded image, with a soft gentle smile. She wears a short white wedding dress above the knee, fitted, decorated with delicate 3D floral appliqués on the bodice and skirt. At the back, a large bow made of smooth plain fabric is attached, extending into a long plain fabric train that flows gracefully to the floor. She gently folds her arms in front of her, wearing sheer tulle gloves with small floral embellishments. Her hair is styled in soft loose waves, makeup is natural with light red lips. Soft lighting enhances her tall, slender figure, the refined floral bodice, the big bow, and the elegant flowing train"
+  },
+  {
+    "title": "Sang trọng",
+    "description": "Phụ nữ quý phái,sang trọng trong nhà hàng",
+    "previewImage": "https://i.ibb.co/pvx6fDtG/songao.png",
+    "prompt": "The uploaded photo still retains the model's original face and natural expression, without changing any features. A beautiful girl is sitting in a luxurious restaurant in the evening. She has long, slightly curly hair, falling to both sides of her shoulders, the upper part of her hair is neatly tied in half. She is wearing a pearl white strapless dress, exquisitely designed and body-hugging, combined with an elegant pearl necklace. She sits sideways, her right hand supporting her chin, her left hand holding her phone, her eyes gently looking towards the lens with a slight smile, her expression natural and charming. On the table is a set of tableware including white plates, black chopsticks, a few tall glasses - including an empty wine glass and a glass of clear water. In the background is a modern, luxurious restaurant space, with an open kitchen counter with warm yellow light, a shelf for dishes, large curtains, and a glass window reflecting the night scene outside. The whole scene feels high-class, cozy, and sophisticated."
+  },
+  {
+    "title": "Ảnh Studio 1",
+    "description": "Ảnh chuyên nghiệp trong Studio",
+    "previewImage": "https://i.ibb.co/fVhVFDSX/tinhcam.png",
+    "prompt": "Render cặp đôi người Việt Nam trong studio.\nRef1 = nam: giữ 100% mặt & tóc từ ảnh gốc, không chỉnh sửa.\nRef2 = nữ: giữ 100% mặt & tóc từ ảnh gốc, không chỉnh sửa.\nKhông trộn khuôn mặt. Không phụ kiện.\nTrang phục: nam áo len navy, nữ áo len trắng, dệt trơn.\nCử chỉ: tình cảm, thân mật, biểu cảm vui tươi, cử chỉ yêu thương đa dạng (AI tự động sáng tạo nhiều tư thế khác nhau).\nNền: plain dark gray studio background, minimalistic.\nÁnh sáng: soft studio lighting, evenly lit, no harsh shadows.\nChất lượng: ultra realistic, photo-realistic, 8K render, sharp focus, studio quality.Ảnh 9:16."
+  },
+  {
+    "title": "Ảnh cưới concept 2",
+    "description": "Ảnh cưới chuyên nghiệp",
+    "previewImage": "https://i.ibb.co/r2tWqzYy/anhcuoi2.png",
+    "prompt": "Sử dụng bức ảnh đã tải lên làm ảnh tham chiếu và GIỮ NGUYÊN KHUÔN MẶT, biểu cảm cùng cảm xúc trong đôi mắt.\nMột bức chân dung cưới truyền thống Việt Nam của cặp đôi trẻ đứng cạnh nhau trước phông nền đỏ thẫm với những ký tự vàng lớn ghi chữ “Song Hỷ”. Người đàn ông mặc bộ vest đen hai hàng nút cổ điển, áo sơ mi trắng và cà vạt đỏ chấm bi, đứng thẳng với vẻ tự tin. Người phụ nữ mặc áo dài Việt Nam màu đỏ burgundy, tay cầm chiếc quạt xếp tinh xảo. Mái tóc búi, điểm xuyết phụ kiện hoa đỏ, nụ cười nhẹ nhàng, dịu dàng.\nCặp đôi nắm tay nhau, biểu trưng cho tình yêu và sự gắn kết. Ảnh chụp studio độ phân giải cao, chi tiết tinh xảo, mang vẻ đẹp thanh lịch và đậm tính văn hóa."
+  },
+  {
+    "title": "Ảnh cưới concept 3",
+    "description": "Ảnh cưới chuyên nghiệp",
+    "previewImage": "https://i.ibb.co/SXyGc1RD/anhcuoi3.png",
+    "prompt": "Pasangan asia muda cantik dan tampan romantis berdiri di ladang gandum emas saat matahari terbenam, pencahayaan sinematik hangat, wanita elegan dengan gaun hitam panjang off-shoulder yang mengalir, rambut cokelat berkilau terkena cahaya senja, tangan memegang buqet bunga tulip putih dan pink kertas cream pita hitam dengan pria berbaju serba hitam, keduanya saling berpelukan tidak melihat ke kamera, suasana dreamy, golden hour photography, ultra detail, 8k, close up depth of field dangkal, gaya pemotretan profesional --ar 2:3"
+  },
+  {
+    "title": "Tạo ảnh profile(Nam)",
+    "description": "Phong cách cá nhân",
+    "previewImage": "https://i.ibb.co/JwYFQk6z/anhpro.jpg",
+    "prompt": "A high-fashion studio portrait of a young East Asian man with sharp features and flawless skin, dressed in a sleek black suit against a vivid red background. He poses dramatically with one hand partially covering his face, adorned with bold gold rings and a chunky gold bracelet. A narrow strip of warm light vertically slices down the center of his face, adding intense contrast and mystery. The lighting is cinematic and moody, highlighting the contours of his face and hand, evoking a luxurious and enigmatic atmosphere."
+  },
+  {
+    "title": "Tạo ảnh profile nền đỏ(Nam)",
+    "description": "Phong cách trưởng thành,nam tính",
+    "previewImage": "https://i.ibb.co/j9NxGXTB/nendo.png",
+    "prompt": "Sử dụng 100% khuôn mặt từ ảnh gốc.Chân dung studio 3: 4 có độ phân giải cao thực tế của một chàng trai trẻ, làn da sáng trắng với tông màu hồng mềm mại, kết cấu tự nhiên, chỉnh sửa tinh tế. Khung đầu và vai cận cảnh trung bình, vai ngang thẳng.Đầu hơi nghiêng xuống và quay sang trái (từ góc nhìn của người xem), đường viền hàm gần như song song với vai. Góc mặt 3/ 4, mắt nhằm, môi chụm lại, biểu cảm thanh thản thoải mái. Tóc ngắn đến trung bình có kết cấu màu đen, hơi bóng. Trang phục: blazer đen với vai rộng, áo sơ mi trăng, cà vạt đen; tay trước năm lấy phần trên của cà vạt ngang ngực, ngón tay có thể nhìn thấy rõ ràng.Nền: đỏ đậm đặc, liền mạch, không có hoa văn. Ănh sáng: hộp mềm từ phía trên phía trước bên trái, điểm nhấn mềm mại trên má, mũi / môi trên, bóng mềm dưới cằm / cổ, ánh sáng vành rất tinh tế trên tóc. Màu sắc: da trắng tự nhiên, tương phản đen và trắng với màu đỏ đậm / màu cam / xanh lá cây Kỹ thuật: ống kính 85-105mm, độ sâu trường ảnh nông f / 1.8-f / 2.8, ISO thấp, lấy nét trên khuôn mặt.Chế biến: tính chất da quang học, được bảo quản (không phải nhựa, nền bokeh mịn, họa tiết rất nhẹ, không gây tiếng ồn. Đầu ra: ≥ 2000x2667 px (3:4).Bắt buộc phải bảo quản: cà vạt cầm tay, ánh sáng, nền đỏ. Vô cùng đẹp trai"
+  },
+  {
+    "title": "Chụp ảnh thẻ",
+    "description": "Chụp ảnh thẻ từ bất kì ảnh có mặt của bạn",
+    "previewImage": "https://i.ibb.co/60Wz0WXm/anhthe.png",
+    "prompt": "Crop the head and create a 2-inch ID photo with: \n1. Blue background\n2. Professional business attire\n3. Frontal face\n4. Slight smile"
+  },
+  {
+    "title": "Tạo tượng 3D",
+    "description": "Biến mọi vật thành 1 bức tượng",
+    "previewImage": "https://i.ibb.co/qYqH8Mr0/Tuong3d.png",
+    "prompt": "Tạo một bức tượng thương mại tỷ lệ 1/7 của các nhân vật trong ảnh, theo phong cách chân thực, trong môi trường thực tế. Bức tượng được đặt trên bàn máy tính. Bức tượng có đế acrylic tròn trong suốt, không có chữ viết trên đế. Nội dung trên màn hình máy tính là quá trình mô hình hóa 3D của bức tượng này. Bên cạnh màn hình máy tính là hộp đựng đồ chơi, được thiết kế theo phong cách gợi nhớ đến những bức tượng sưu tầm chất lượng cao, được in bằng tác phẩm nghệ thuật gốc. Bao bì có hình minh họa phẳng hai chiều."
+  },
+  {
+    "title": "Poster truy nã cướp biển",
+    "description": "Lệnh truy nã cướp biển của bạn",
+    "previewImage": "https://i.ibb.co/s9SyyzwG/truynacuopbien.png",
+    "prompt": "Using the original image, recreate a pirate's wanted poster drawn on parchment.\nBrown monochrome, with the texture of aged parchment.\nRetain the style and character design of the original image down to the smallest detail, and paste it large at the top of the wanted poster.\nA close-up of the face. Have the character wear a pirate hat.\nWrite the bounty amount at the bottom of the poster. The bounty amount will be random, and a fictitious currency unit will be used.\nBelow the bounty amount, write the crime in small letters. Use a fictitious language. English or Chinese characters may not be used."
+  },
+  {
+    "title": "Xoá nền",
+    "description": "Loại bỏ nền của một hình ảnh, làm cho nó trong suốt và giữ lại chi tiết của chủ thể.",
+    "previewImage": "https://i.ibb.co/4w9sSvKy/xoanen.png",
+    "prompt": "\nXóa nền của hình ảnh này. \nLàm cho nền trong suốt. \nGiữ lại toàn bộ vật thể chính với các cạnh sắc nét và không thay đổi bất kỳ chi tiết nào của chủ thể.\n"
+  }
+]
